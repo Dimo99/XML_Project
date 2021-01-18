@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:element name="Categories">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="Category" type="categoryType" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="categoryType">
+    <xs:sequence>
+      <xs:element name="CategoryName" type="xs:string" />
+      <xs:element name="Anecdote" maxOccurs="unbounded">
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="anecdoteType">
+    <xs:sequence>
+        <xs:element name="Content" type="xs:string"/>
+        <xs:element name="NumberOfLikes" type="xs:int"/>
+        <xs:element name="NumberOfHearts" type="xs:int"/>
+        <xs:element name="NumberOfHaha" type="xs:int"/>
+        <xs:element name="NumberOfWow" type="xs:int"/>
+        <xs:element name="NumberOfSad" type="xs:int"/>
+        <xs:element name="NumberOfFacebookShares" type="xs:int"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:int"/>
+  </xs:complexType>
+
+</xs:schema>

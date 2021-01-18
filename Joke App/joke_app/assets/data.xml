@@ -1,0 +1,3288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Category>
+        <CategoryName>Тъщи</CategoryName>
+        <Anecdote id="0">
+            <Content>Един се прибира от погребението на тъща си.Времето се разваля, изведнъж притъмнява, събират се черни облаци, святка мълния, чува се оглушителна гръмотевица.Човекът поглежда нагоре:
+                – А, майко, значи вече си пристигнала…</Content>
+            <NumberOfLikes>45</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>14</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="1">
+            <Content>Тъщата идва на зетя на гости. Пита за виното:
+                - Къде е бялото вино да си налея?
+                Зетят с неудоволствие отговаря:
+                - Държим го в бутилката с белина. Сипи си, мамо, сипи си!</Content>
+            <NumberOfLikes>65</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>30</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>32</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="2">
+            <Content>Срещат се двама приятели. Единият пита: - Какво ще правиш в събота? - Ще ходим със сина ми в парка да пускаме хвърчило дракон да лети! А ти? - И аз имам подобна програма - ще изпращам тъщата на аерогарата!</Content>
+            <NumberOfLikes>160</NumberOfLikes>
+            <NumberOfHearts>15</NumberOfHearts>
+            <NumberOfHaha>70</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>52</NumberOfSad>
+            <NumberOfFacebookShares>48</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="3">
+            <Content>Служител в офис пита свой колега: - Мите, ти още ли си тук? Нали трябваше да тръгнеш по-рано за погребението на тъщата! - Да, но първо работата, после удоволствието.</Content>
+            <NumberOfLikes>175</NumberOfLikes>
+            <NumberOfHearts>10</NumberOfHearts>
+            <NumberOfHaha>58</NumberOfHaha>
+            <NumberOfWow>16</NumberOfWow>
+            <NumberOfSad>35</NumberOfSad>
+            <NumberOfFacebookShares>42</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="4">
+            <Content>Тъща звъни на зетя: - Прибрах се, а вкъщи мирише на газ... Притеснявам се. - Няма страшно, седни, пални една цигарка, и се успокой....!</Content>
+            <NumberOfLikes>131</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>86</NumberOfHaha>
+            <NumberOfWow>12</NumberOfWow>
+            <NumberOfSad>16</NumberOfSad>
+            <NumberOfFacebookShares>121</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="5">
+            <Content>Мъж се обажда в реанимацията:
+                - Как е тъща ми?
+                - Пригответе се за най-лошото..
+                - Какво? Жива ли е?</Content>
+            <NumberOfLikes>95</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>44</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="6">
+            <Content>Служители на подразделение за борба с масовите безредици стоят с шлемове пред тълпа с демонстранти. Напрежението расте и започват да тропат с палките по щитовете си. Един казва на другия до него: 
+                - Виждаш ли оная лудата лелка с пъстрата шапка? Това е тъща ми. Не я пипай! Моя е!</Content>
+            <NumberOfLikes>91</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>42</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>37</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="7">
+            <Content>В редакция на вестник: - Искам да публикувам некролог, свекърва ми почина. - Добре, какъв ще е текстът? - Почина Мими Петрова Попова. - Некролозите трябва да съдържат минимум 10 думи. - Добре, пишете тогава "Почина Мими Петрова Попова, ха-ха-ха, ха-ха-ха!".</Content>
+            <NumberOfLikes>74</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>39</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>25</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="8">
+            <Content>- Защо тъща ти е така усмихната в ковчега?
+                - Нали съм с оптичен мерник, до последния момент си мислеше че я снимам!</Content>
+            <NumberOfLikes>77</NumberOfLikes>
+            <NumberOfHearts>9</NumberOfHearts>
+            <NumberOfHaha>28</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>28</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="9">
+            <Content>Семейство – мъж, жена и тъща отиват на почивка в Йерусалим. Ненадейно тъщата умира. Шок….Местна агенция им предлага да я погребат там срещу 3000 $ или да я транспортират до България за 9000 $. Зетят твърдо е решен да я върнат в родната й страна. Жена му не може да се начуди:
+
+                – Скъпи, толкова си добър….ти за мама да направиш такова нещо….толкова много пари…..?
+                – Не мога да рискувам – тук един вече е възкръснал….</Content>
+            <NumberOfLikes>204</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>94</NumberOfHaha>
+            <NumberOfWow>14</NumberOfWow>
+            <NumberOfSad>20</NumberOfSad>
+            <NumberOfFacebookShares>83</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Митничари и военни</CategoryName>
+        <Anecdote id="10">
+            <Content>Проверка в казармата. Войниците се оплакват:
+
+                - В чорбата има камъчета!
+
+                - Що за оплаквания? - сопва се капитанът. - Вие сте тук, за да служите на родината!
+
+                - Да, но не за да я ядем....</Content>
+            <NumberOfLikes>80</NumberOfLikes>
+            <NumberOfHearts>9</NumberOfHearts>
+            <NumberOfHaha>44</NumberOfHaha>
+            <NumberOfWow>11</NumberOfWow>
+            <NumberOfSad>19</NumberOfSad>
+            <NumberOfFacebookShares>18</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="11">
+            <Content>На “Капитан Андреево” митничар спира ТИР за проверка:
+                - Какво карате?
+                - Храна за пилета.
+                Митничарят оглежда старателно товара и възкликва:
+                - Ама това кокаин, бе!
+                - А, дреме ми на шапката! Ако щат да го ядат!</Content>
+            <NumberOfLikes>129</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>77</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>17</NumberOfSad>
+            <NumberOfFacebookShares>52</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="12">
+            <Content>Питали един митничар:
+                - За колко време можеш да си купиш BMW?
+                - За шест месеца.
+                - Стига, бе! Толкова дълго?
+                - Е, ами голяма корпорация е...</Content>
+            <NumberOfLikes>73</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>42</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>12</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="13">
+            <Content>Полковникът към своя заместник:
+                - Утре в 10:00 часа ще има слънчево затъмнение, което не се случва всеки ден. Целият личен състав трябва да бъде строен до казармата, за да може всички да наблюдават този природен феномен. Ако времето е лошо и няма да бъде възможно да се наблюдава затъмнението, съберете целия персонал в спортната зала.
+                Заместник командирът вика капитана и му нарежда:
+                - Утре в 10:00 ще има слънчево затъмнение. Ако вали, можете да го видите извън казармата, а затъмнението ще се случи в спортната зала. Това не се случва всеки ден.
+                Капитанът към лейтенанта:
+                - Полковникът заповяда утре в спортната зала да се проведе слънчево затъмнение. Ако вали, полковникът ще издаде специална заповед, която не се случва всеки ден.
+                Лейтенантът към старшината:
+                - Утре полкът ще прави слънчево затъмнение в спортната зала, което ще се случва всеки път, когато вали!
+                Старшината към войниците:
+                - Утре всички отпуски се отменят поради затъмнението на полковника от слънцето. Ако вали в спортната зала, което не се случва всеки ден, всички да се строят до казармата.</Content>
+            <NumberOfLikes>32</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>35</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="14">
+            <Content>Дошло време митничар да се пенсионира. Колегите му обсъждат какъв подарък да му вземат.
+                - Да му купим кола! - предлага първият.
+                - Той има три и жена му има, и децата му също.
+                - Тогава да му купим апартамент! - предложил вторият.
+                - Той има няколко.
+                - Да му подарим една извънредна смяна! - предлага трети.
+                Първият и вторият в един глас:
+                - Много е.</Content>
+            <NumberOfLikes>61</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>28</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>10</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="15">
+            <Content>Офицери решават важен въпрос - колко бутилки водка да се вземат за утрешния пикник. Полковникът:
+                - Вашите предложения, господин лейтенант?
+                - Предлагам да вземем по осем бутилки на човек.
+                - Е, вие сте млад и може би не си спомняте, че преди две години ние взехме по осем бутилки на човек. И какъв беше резултата? Изгубихме си автобуса! Не, не става.
+                Господин капитан, вашите предложения?...
+                - Седем бутилки на човек.
+                - Вие служите при нас малко по-отдавна и би трябвало да си спомните, че преди четири години ние бяхме взели по седем бутилки на човек и какъв беше резултата? Изгубихме радиста! Не става.
+                А вашите предложения, господин майор?
+                - Шест бутилки водка на човек.
+                - Е, това вече е непростимо! Вие сте длъжен да помните какво се случи преди три години, когато взехме по шест бутилки. Какво стана? Изгубихме си въдиците, ето какво стана… Не, господа, чуйте моето предложение! Взимаме по десет бутилки водка на човек. Въдици не вземаме, забравяме радиста в щаба и не излизаме от автобуса...</Content>
+            <NumberOfLikes>86</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>30</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="16">
+            <Content>На “Капитан Андреево” митничар спира ТИР за проверка: 
+                - Какво карате? 
+                - Храна за пилци.
+                Митничарят оглежда старателно товара и възкликва: 
+                - Ама това е кокаин, бе! 
+                - Дреме ми на шапката! Ако щат да го ядат!</Content>
+            <NumberOfLikes>75</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>18</NumberOfWow>
+            <NumberOfSad>31</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="17">
+            <Content>Митничар пред портите. Свети Петър го пита:
+                - Къде искаш - в рая или в ада?
+                - Ами, някъде на границата, между тях...</Content>
+            <NumberOfLikes>53</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>21</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="18">
+            <Content>В гарнизонно градче капитанът слага сина си да спи.
+                - Не ми се спи, татко - капризничи синчето - искам слончетата да потичат!
+                - Късно е вече, синко, лягай да спиш.
+                - Не, не е късно, искам слончетата да потичат, искааам!
+                - Ох, какво да правя с теб! - въздиша капитанът.
+                Скача, излиза от блока, пресича казармения двор и влиза в спалното помещение:
+                - Рота, стани! Тревога! Въздушно нападение! Сложи противогазите!</Content>
+            <NumberOfLikes>73</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>38</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>23</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="19">
+            <Content>Наборна комисия. Задават почти формалния въпрос: - Къде искате да служите?
+                - Летец!
+                - Не може, имате проблеми с кръвното. Изберете друго!
+                - Зенитчик!
+                - Че защо зенитчик?
+                - Щом аз няма да летя, никой няма да лети!</Content>
+            <NumberOfLikes>158</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>75</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>30</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Национални</CategoryName>
+        <Anecdote id="20">
+            <Content>Когато нашенецът види жена зад волана: “Тая овца не може да кара, да паркира, прецаква съединителя, амортисьорите, натиска без нужда спирачките...”
+                Когато продава кола: “Запазена е, жена я е карала, гле’й, кат’ нова!”</Content>
+            <NumberOfLikes>109</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>51</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>14</NumberOfSad>
+            <NumberOfFacebookShares>63</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="21">
+            <Content>ООН направила допитване в глобалната мрежа на тема "Моля, честно отговорете, какво е Вашето мнение за решаване на проблема с недостига на храна в другите страни". Ето и част от трудностите при анкетирането:
+                - В Африка не знаели какво е "храна".
+                - В Източна Европа не знаели какво е "честно".
+                - В Западна Европа не знаели какво е "недостиг".
+                - В Китай не знаели какво е "вашето мнение".
+                - В Близкия изток не знаели какво е "решаване на проблема".
+                - В Южна Америка не знаели какво е "моля".
+                - В САЩ не знаели какво е "други страни" ...</Content>
+            <NumberOfLikes>72</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="22">
+            <Content>Евреин се оплаква на приятеля си:
+                - Моше, Моше-е-е, лоша работа! От двете страни на магазина ми издигнаха молове. Чудя се какво да правя?
+                - И твоят магазин е по средата?
+                - Да!
+                - Напиши: “Вход”!</Content>
+            <NumberOfLikes>41</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>10</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>23</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="23">
+            <Content>В Англия се звъни на звънеца:
+                - Кой е?
+                - Елтън.
+                Във Франция се звъни на звънеца:
+                - Кой е?
+                - Пиер.
+                В Германия се звъни на звънеца:
+                - Кой е?
+                - Хелмут.
+                В Испания се звъни на звънеца:
+                - Кой е?
+                - Мигел.
+                В Дания се звъни на звънеца:
+                - Кой е?
+                - Ерик.
+                В България се звъни на звънеца:
+                - Кой е?
+                - Аз съм.</Content>
+            <NumberOfLikes>207</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>81</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>16</NumberOfSad>
+            <NumberOfFacebookShares>39</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="24">
+            <Content>Била страшна суша и хората отишли при равина да се помолят за дъжд.
+                - Вярата ви е малко - казал той - затова няма да има дъжд.
+                - Как малко, вижте колко хора сме се събрали!
+                - А къде са ви чадърите?</Content>
+            <NumberOfLikes>49</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>32</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>16</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="25">
+            <Content>- Защо французите обичат да ядат охлюви?
+                - Защото мразят бързата храна!</Content>
+            <NumberOfLikes>29</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>19</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="26">
+            <Content>Веднъж при Александър Дюма дошъл опечален познат:
+                – Почина литературният критик на „Фигаро”…
+                – Ужасно – въздъхнал Дюма.
+                – Тъй като не е оставил никакво имущество, сега се налага да събираме пари за погребението му… Бихте ли помогнали с пет франка?
+                – Вземете десет – рекъл щедро Дюма, – и погребете двама критици!</Content>
+            <NumberOfLikes>84</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>33</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="27">
+            <Content>Японски преводач бил уволнен, след като не успял да се справи с превода от български на диалога:
+                - Какво правиш?
+                - Нищо, работя.</Content>
+            <NumberOfLikes>154</NumberOfLikes>
+            <NumberOfHearts>9</NumberOfHearts>
+            <NumberOfHaha>76</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>237</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="28">
+            <Content>Шотландец изгубил жена си и отишъл в местния вестник, за да отпечата некролога й. - Какво искате да пише в него? - попитал служителят. - Мойра умря - отвърнал шотландецът. - Можете да прибавите още няколко думи на същата цена. - Хм... - замислил се шотландецът. - Добре тогава: „И продавам стар форд"...</Content>
+            <NumberOfLikes>93</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>48</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="29">
+            <Content>Турист сяда в испански ресторант и разглежда менюто. Гледа ястие: "Корида". Поръчва си го и остава много доволен - порцията съдържа две огромни "яйца" от бик. След време пак идва в Испания и пак си поръчва от същото. Този път обаче му носят две съвсем малки яйца. Пита келнера:
+                - Защо толкова малки тоя път?
+                - Ами коридата си е корида, господине... Кога бика, кога матадора...</Content>
+            <NumberOfLikes>88</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>61</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>12</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Шофьори и пилоти</CategoryName>
+        <Anecdote id="30">
+            <Content>Вчера един катаджия искаше да ми вземе книжката, а аз му викам:
+                - Не може, бате, подарък ми е!</Content>
+            <NumberOfLikes>10</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>5</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="31">
+            <Content>Мъж на средна възраст обядва. в крайпътно заведение. По едно време в заведението влезли трима рокери. Първият отишъл при мъжа и угасил фаса си в чинията му. Вторият се изплюл в чашата му. За капак третият съборил обяда му на пода. Без да каже нито дума, мъжът станал и си излязъл.
+                - Тоя не беше никакъв мъж, а? - презрително казал единият рокер на сервитьорката.
+                - Като гледам и за шофьор не става - отвърнала тя. - Току-що прегази три мотора с тира си.</Content>
+            <NumberOfLikes>116</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>25</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="32">
+            <Content>Мотоциклетист блъска пешеходец, помага му да се изправи и казва:
+                - Братле, голям късметлия си!
+                - Ама как, можеше да ме убиеш?
+                - Абе, днес е неделя и си карам мотора, ако беше през седмицата, карам ТИР.</Content>
+            <NumberOfLikes>57</NumberOfLikes>
+            <NumberOfHearts>9</NumberOfHearts>
+            <NumberOfHaha>13</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>9</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="33">
+            <Content>В автосервиз:
+                - Какво можете да направите за колата ми?
+                - Да вземем двата номера и между тях да сложим нова кола.</Content>
+            <NumberOfLikes>57</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="34">
+            <Content>Зад волана се чувствам като бог: аз шофирам, а останалите се молят.</Content>
+            <NumberOfLikes>47</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>15</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="35">
+            <Content>Жена се вози в такси и се обръща към шофьора:
+                - Господине, бихте ли ми спрели ей там... до онова котараче?!
+                Шофьорът:
+                - До предните или до задните лапички, госпожо...</Content>
+            <NumberOfLikes>210</NumberOfLikes>
+            <NumberOfHearts>12</NumberOfHearts>
+            <NumberOfHaha>97</NumberOfHaha>
+            <NumberOfWow>22</NumberOfWow>
+            <NumberOfSad>51</NumberOfSad>
+            <NumberOfFacebookShares>47</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="36">
+            <Content>Лети пътнически самолет. По пътечката между пътниците минава пилота с парашут на гърба си. Един от пътниците го пита:
+                - Какво става?
+                - Неприятности в работата....</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>13</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="37">
+            <Content>- Как се псуват шофьорите в София?
+                - От понеделник до петък - на селянин, в събота и неделя - на майка!</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="38">
+            <Content>Върви маршрутка по линия "Младост - Люлин". Някъде около Орлов мост вече е препълнена. Изведнъж шофьорът набива спирачки и събира всички правостоящи при себе си. Отзад се чува женски глас: - Ти да не возиш говеда? Шофьорът невъзмутимо отговаря: - Каквото се качи, такова возя, госпожо!</Content>
+            <NumberOfLikes>75</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>34</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>22</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="39">
+            <Content>Шофьорът на камион бай Стамат беше на разделно хранене:
+                - Кара картофи - яде картофи.
+                - Кара кашкавал - яде кашкавал.
+                - Кара тухли - разтоварващ ден....</Content>
+            <NumberOfLikes>160</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>72</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>102</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Овчари и ловци</CategoryName>
+        <Anecdote id="40">
+            <Content>Стои си един рибар пие ракия и лови риба, ама не кълве. По едно време хванал едно малко рибе, но докато махал куката го изтървал в чашката с ракия. Извадил рибката и я хвърлил в езерото и след малко като почнало да му кълве, за 10 минути напълнил кофата.
+                Вътре в кофата две риби си говорят:
+                - Ей, туй, малкото, как ни излъга! Хващал бил само за малко... черпел с ракия и пускал...</Content>
+            <NumberOfLikes>26</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>7</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="41">
+            <Content>Рибар без разрешително е хванат от горския на местопрестъплението с една кофа пълна с риба.
+                - Не съм ги хванал аз! - оправдава се рибарят. - Те са си мои домашни любимци... Всеки ден идвам тук да ги "разходя." Пускам ги за половин час във водата, плуват и после като им свирна, всички скачат в кофата обратно. Ако не вярвате, елате да ви покажа!
+                Горският гледа недоверчиво, но се съгласява. Рибарят хвърля рибата във водата.
+                Горският:
+                - Стига толкова - викайте ги вече!
+                - Кого да викам?
+                - Как кого? Ами рибите, дето хвърлихте във водата...
+                - Какви риби?!</Content>
+            <NumberOfLikes>47</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>18</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>40</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="42">
+            <Content>Стои си един рибар пие ракия и лови риба, ама не кълве. По едно време хванал едно малко рибе, но докато махал куката го изтървал в чашката с ракия. Извадил рибката и я хвърлил в езерото и след малко като почнало да му кълве, за 10 минути напълнил кофата.
+                Вътре в кофата две риби си говорят:
+                - Ей, туй малкото как ни излъга! Хващал бил само за малко... черпел с ракия и пускал...</Content>
+            <NumberOfLikes>115</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>45</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>71</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="43">
+            <Content>Рибар се хвали пред колеги:
+                - Само едно ще ви кажа... като извадих шарана, нивото на язовира спадна с половин метър</Content>
+            <NumberOfLikes>105</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>45</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>31</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="44">
+            <Content>- Ще ходим ли за риба? - Аха. - А пиене да вземем ли? - Еее, да! - А въдиците ще ги вземам ли? - Да бе, да ги загубим някъде...</Content>
+            <NumberOfLikes>70</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>25</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>31</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="45">
+            <Content>Двама рибари си говорят: - Вчера хванах ей такъв шаран (показва с ръка почти до рамото). - Да, бе! Аз пък хванах едно фенерче, даже светеше. - Е, не може да бъде!!! - Добре де, ти намали от рибата, аз ще изгася фенерчето...</Content>
+            <NumberOfLikes>70</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>34</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>26</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="46">
+            <Content>Пишман рибар се връща с празна кошница от реката, отива в рибарския магазин и казва на продавача: – Би ли ми подхвърлил две-три каракуди и едно шаранче. – Защо да ти ги подхвърлям? Ще ти ги опаковам, пликче ще ти дам… – В никакъв случай! Искам да мога честно да кажа на жена си, че съм ги хванал!</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>34</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>35</NumberOfSad>
+            <NumberOfFacebookShares>18</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="47">
+            <Content>Рибар се връща от язовира, нарамил огромен шаран, около 25 кила. Влачи се едва-едва под тежестта на шарана и изведнъж среща друг рибар, помъкнал цяла кофа с попчета: - Какво стана, приятел, цял ден само една риба ли хвана?</Content>
+            <NumberOfLikes>70</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>17</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>62</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="48">
+            <Content>Планинска поляна. Овчар пасе стадо овце. Типична картинка – гега, ямурлук, калпак. И изведнъж издрънчал мобилен телефон. Всички овце като една се обръщат към овчаря и го гледат зяпнали в очакване.
+                Той бърка в торбата, вади телефона:
+                – Ало, да? Аз съм. – обръща се към овцете и казва.
+                – За мен е.</Content>
+            <NumberOfLikes>65</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>24</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>12</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="49">
+            <Content>Двама приятели отишли за риба. Ловили, каквото ловили, най-накрая награбили бутилките с ракия. На сутринта двамата се събудили с главоболие и тежък махмурлук. Отворили очи и какво да видят - поляната разорана, а рибарските мрежи разпилени по брега.
+                - Тъпак, какво си направил? Къде си хвърлил снощи мрежите? – ядосал се първият рибар.
+                - Айде сега аз виновен. Как къде? Там където ти гребеше с лодката, там хвърлях мрежите!</Content>
+            <NumberOfLikes>78</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>45</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>14</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Пияници и наркомани</CategoryName>
+        <Anecdote id="50">
+            <Content>- Реших да започна нов живот.
+                - Спрял си пиенето ли?
+                - Е, не чак толкова нов....</Content>
+            <NumberOfLikes>10</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>4</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="51">
+            <Content>Един пиян се прибирал вечерта и видял в една локва да се отразява Луната. Стъпил върху отражението и почнал да вика: 
+                - Аз съм царят на Луната! Аз съм царят на Луната! 
+                Минал един полицай и му казал: 
+                - Добре, добре, само по-тихо... А аз сега ще ти викна един луноход да те прибере.</Content>
+            <NumberOfLikes>98</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>48</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="52">
+            <Content>- Добър ден! Голяма ракия, моля!
+                - Но, господине, едва 10 ч. сутринта е!
+                - Оф, добро утро! Голяма ракия, моля!</Content>
+            <NumberOfLikes>23</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>19</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>2</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="53">
+            <Content>3 сутринта. Пиян звъни на вратата. Отваря му сънен мъж:
+
+                - Кажете!
+
+                - А, ти кво прайш вкъщи?
+
+                - Това не е твойта къща! - и тръшва вратата. След 10 минути пак се звъни.
+
+                - Пак ли ти?
+
+                - Аз... абе, това... не съм ли вкъщи?
+
+                - Нали ти казах, това е моето вкъщи! Твоето е някъде другаде! - и прас вратата!
+
+                След 10 минути пак се звъни:
+
+                - Начи, да те питам нещо. Как така ти живееш навсякъде, а аз - никъде?</Content>
+            <NumberOfLikes>78</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>50</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>78</NumberOfSad>
+            <NumberOfFacebookShares>23</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="54">
+            <Content>- Докторе, боли ме черния дроб.
+                - Пиете ли?
+                - Пия, но не минава...</Content>
+            <NumberOfLikes>111</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>36</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>31</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="55">
+            <Content>Всяка чаша ракия съкращавала живота с 10 минути... Смятах, смятах... умрял съм в битката при Дойран...</Content>
+            <NumberOfLikes>40</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>20</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>35</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="56">
+            <Content>Късно вечерта. Пиян мъж е прегърнал уличен стълб. Почуква лекичко по него и фъфлейки вика:
+                - Пено, отвори!
+                След малко пак:
+                - Пено-о-о... Отвори!
+                Приближава се полицай:
+                - Какво правите тук, господине?
+                - Ами жена ми ме е заключила и не ме пуска да си вляза.
+                Полицаят погледнал нагоре към уличната лампа на стълба и казал:
+                - Странно! Горе свети. Що не отваря тая жена?</Content>
+            <NumberOfLikes>108</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>121</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>80</NumberOfSad>
+            <NumberOfFacebookShares>54</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="57">
+            <Content>– Ти защо не се бръснеш?
+                – Нямам гадже, за което да го правя.
+                – А просто за себе си?
+                – За себе си имам ракия…</Content>
+            <NumberOfLikes>42</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="58">
+            <Content>– Ало-о-о-у, 112 ли е? Отвлякоха ме извънземни!
+                – Пиян ли сте?
+                – Абе, това няма нищо общо...</Content>
+            <NumberOfLikes>37</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>21</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="59">
+            <Content>Бай Генчо от винпрома всяка вечер си вземаше работа за вкъщи.</Content>
+            <NumberOfLikes>38</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Блондинки</CategoryName>
+        <Anecdote id="60">
+            <Content>- Къде си муцка?
+                - В градината, поливам!
+                - Ми то вали!?
+                - Е знам с чадър съм... не съм проста!</Content>
+            <NumberOfLikes>125</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>53</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>110</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="61">
+            <Content>Три блондинки решили да се явят на изпит за детективи. Един от детективите им казал:
+                - Сега ще ви покажа една снимка, а вие ще ми кажете как ще я разпознаете в тълпата. Първата казала:
+                - Еми-и-и, има само едно око.
+                - Не, просто той е в профил.
+                Показал я на втората и тя казала:
+                - Има едно ухо...
+                - Колко пъти да ви казвам, че той е в профил.
+                Тогава третата блондинка казала:
+                - Носи лещи.
+                Детективът погледнал снимката и казал:
+                - Вярно бе, как позна?
+                - Човек с едно око и едно ухо, не може да носи очила.</Content>
+            <NumberOfLikes>39</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>34</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>11</NumberOfSad>
+            <NumberOfFacebookShares>7</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="62">
+            <Content>Блондинка-секретарка нахълтва в стаята на айтитата, хвърля на бюрото на един от админите папка с документи и казва:
+                - Шефът иска спешно тези неща да заминат с електронната поща.
+                Админът, без да вдига поглед от компютъра си:
+                - Няма да стане…
+                Блондинката учудено:
+                - Защо да не може?
+                Админът:
+                - Електронните марки свършиха!</Content>
+            <NumberOfLikes>87</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>73</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>29</NumberOfSad>
+            <NumberOfFacebookShares>18</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="63">
+            <Content>- Госпожице, вашият билет е за Харманли, а този влак е за Бургас!
+                - Ти да видиш! Често ли се случва машинистът ви да обърка пътя?</Content>
+            <NumberOfLikes>83</NumberOfLikes>
+            <NumberOfHearts>10</NumberOfHearts>
+            <NumberOfHaha>43</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="64">
+            <Content>Блондинка с къса пола се качва по стълби. След нея върви мъж и поглежда под полата й. Блондинката ядосана се обръща:
+                - Как не ви е срам! Вие не сте никакъв джентълмен.
+                - А вие не сте никаква блондинка - отговорил джентълменът.</Content>
+            <NumberOfLikes>68</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="65">
+            <Content>Из дневника на блондинка след морски круиз:  "Първи ден – подготвих всичко за круиза и се вълнувам. Втори ден – Видях делфини и китове. Срещнах капитана – много импозантен мъж...Трети ден – днес се къпах в басейна. Капитанът ме покани да обядвам на неговата маса. Джентълмен...Четвърти ден – капитанът ме покани в каютата си. Вечеря на свещи, шампанско... Помоли ме да преспя при него. Отговорих му, че няма шанс, омъжена съм...Пети ден – вечерта наминах в бара. Капитанът ме почерпи няколко питиета. Отново поиска да спи с мен. Заплаши ме, че ако откажа, ще потопи лайнера...Неделя – вече за 10-ти път спасявам 1500 души!"</Content>
+            <NumberOfLikes>178</NumberOfLikes>
+            <NumberOfHearts>14</NumberOfHearts>
+            <NumberOfHaha>105</NumberOfHaha>
+            <NumberOfWow>14</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>48</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="66">
+            <Content>Между манекенки:
+                – Би ли се съгласила да станеш жена на онази мутра?
+                – Бих се съгласила да стана негова вдовица.</Content>
+            <NumberOfLikes>56</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>24</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="67">
+            <Content>Две блондинки  си говорят:
+                - Мила, ти за какво мечтаеш?
+                - Ами да срещна добрата фея и тя да ме попита за какво си мечтая...
+                - И какво ще и кажеш?
+                - Амиии, мечтая си да имам 100 хиляди долара...
+                - Само толкова ли, защо не милион?
+                - Е, не е ли малко нереално?</Content>
+            <NumberOfLikes>36</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>18</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="68">
+            <Content>Между блондинки:
+                - Муцка, ти спала ли с някой културист?
+                - Да!
+                - И как е?
+                - Представи си, че върху тебе пада гардероб, а от вратата му стърчи малко ключе...</Content>
+            <NumberOfLikes>106</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>135</NumberOfHaha>
+            <NumberOfWow>17</NumberOfWow>
+            <NumberOfSad>23</NumberOfSad>
+            <NumberOfFacebookShares>47</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="69">
+            <Content>Блондинка лежи в болница и минава лекар на визитация: - Приятно ми е, госпожо, аз съм Вашият лекуващ лекар, а това е Вашата сестра! - О, боже господи, докторе! Не знаех, че имам сестра!</Content>
+            <NumberOfLikes>111</NumberOfLikes>
+            <NumberOfHearts>12</NumberOfHearts>
+            <NumberOfHaha>93</NumberOfHaha>
+            <NumberOfWow>20</NumberOfWow>
+            <NumberOfSad>23</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Полицаи и пожарникари</CategoryName>
+        <Anecdote id="70">
+            <Content>Следователят:
+                - Труп на мъж, видима възраст - 40+. Лежи в кухнята на семейния апартамент. По главата следи от удари с тежък метален предмет (тиган). Заподозряната твърди, че го е помолила да ѝ купи таблетки за отслабване, но жертвата е отказал, с мотив, че на нейната възраст това било безмислено и чиста загуба на пари за бира.
+                Сержант, запишете в протокола - явно самоубийство.</Content>
+            <NumberOfLikes>38</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>21</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="71">
+            <Content>Полицай спира автомобил за проверка.
+
+                - Пиши сега, на този бял лист хартия, какви нарушения направи до момента, но на финикийски!
+
+                - Но, господин полицай, аз не знам финикийски!?!
+
+                - Знаеш, знаеш! Пиши защо направи всички нарушения!
+
+                Човека взел белия лист, подържал го известно време, па взел една банкнота от 20 лева и я подал на полицая в сгънатия
+
+                лист. Той разтворил листа и казал на водача:
+
+                - А-а-а! Не можем да пишем, а половината писмо вече сме го написали...!</Content>
+            <NumberOfLikes>23</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>14</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="72">
+            <Content>- Комисар, намерихме 30 кг дрога, какво да я правим?
+                - 20 кг ли?
+                - Да, 15 кг.</Content>
+            <NumberOfLikes>12</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>9</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>0</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="73">
+            <Content>Полицай втренчено гледа мъж на улицата и го пита строго: 
+                - Аз май съм Ви виждал някъде? 
+                Мъжът отговаря: 
+                - Да, често вися там.</Content>
+            <NumberOfLikes>43</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>19</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>27</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="74">
+            <Content>Катаджия спира кола и забелязва, че шофьорът е пъхнал две книги под мишниците си.
+                - Какви са тези книги? - пита той.
+                - Законът за движение по пътищата и Наказателно-процесуалният кодекс.
+                - Хм, а това, дето виси на врата Ви, какво е - пита пак старшината.
+                - Микрофон, нашият разговор в момента се записва.
+                - А видеокамера случайно да имате включена? - пита служителят на реда.
+                - Е, видеокамера нямам...
+                Катаджията с широка усмивка му показва среден пръст:
+                - Ами, приятен път тогава..!</Content>
+            <NumberOfLikes>52</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>19</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="75">
+            <Content>Катаджия спира един за превишена скорост.
+                - Точно теб чаках...
+                - Знам, знам. Затова дойдох, колкото можах по-бързо.</Content>
+            <NumberOfLikes>37</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>15</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="76">
+            <Content>Пожарникар кандидатства в музикално училище. На изпита го питат:
+                - Каква е разликата между контрабас и цигулка?
+                Пожарникарят се замисля и отговаря:
+                - Контрабасът гори по-дълго…</Content>
+            <NumberOfLikes>137</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>51</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>25</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="77">
+            <Content>Катаджия на работа. Цял ден на пост, колите - малко, вали един ситен противен дъждец, кучи студ, направо отврат! Целият мокър и премръзнал се прибрал вечерта, бесен като куче. Казва на сина си: 
+                - Донеси си бележника! 
+                Изплашил се синът и отишъл при майка си: 
+                - Имам двойка, какво да правя? 
+                - Дай тук бележника. Донесъл го синът, тя сложила вътре 20 лева и момчето го занесло на баща си. Отворил го той: 
+                - Ох, слава богу! Поне вкъщи всичко си е наред!</Content>
+            <NumberOfLikes>37</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>11</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="78">
+            <Content>Катаджия спира водач на МПС. - 20 лева глоба! - Ама, аз нищо не съм нарушил! - А, според тебе, моите гладни деца са длъжни да чакат, докато нарушиш нещо ли?</Content>
+            <NumberOfLikes>127</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>29</NumberOfHaha>
+            <NumberOfWow>13</NumberOfWow>
+            <NumberOfSad>29</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="79">
+            <Content>Катаджия спечели голямата печалба от лотарията, възлизаща на един милион лева. Поканил по този повод колегите си и започнал да ги черпи. - И какво ще правиш с толкова много пари? Сигурно ще си купиш нова къща и кола? - питат те. - Не, братлета. Искам да си купя едно кръстовище в центъра и да си работя за собствено удоволствие...</Content>
+            <NumberOfLikes>47</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>13</NumberOfHaha>
+            <NumberOfWow>14</NumberOfWow>
+            <NumberOfSad>31</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Черен хумор</CategoryName>
+        <Anecdote id="80">
+            <Content>Баба чете некролог и си говори на глас.  - Брей, от какво ли е умрял?  Зад нея един пияница се обажда.  - Чети надолу, там си пише - от жената, от децата, от семейството...</Content>
+            <NumberOfLikes>54</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>37</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>56</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="81">
+            <Content>Cрeщaт ce двa кoрoнaвируca: - Вчeрa тaкaвa крacaвицa тръшнaх в лeглoтo!, хвaли ce първият. Втoрият тъжнo oтгoвaря: - A нa мeн нe ми върви, сaмo нa пeнcиoнeрки пoпaдaм.</Content>
+            <NumberOfLikes>50</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>25</NumberOfSad>
+            <NumberOfFacebookShares>15</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="82">
+            <Content>- Коя си ти? - Аз съм добрата фея. - А защо носиш тая брадва? - Нещо не съм на кеф...</Content>
+            <NumberOfLikes>71</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>37</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>12</NumberOfSad>
+            <NumberOfFacebookShares>18</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="83">
+            <Content>- Давате ли кредити срещу честна дума?
+                - Няма проблем.
+                - А ако не ги върна?
+                - Ще ви е срам, като се явите пред Всевишния.
+                - Кога ли ще бъде това...
+                - Ами ако не си платите до пето число на месеца, след шести някъде.</Content>
+            <NumberOfLikes>39</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>21</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="84">
+            <Content>Надзирател влиза в килията на осъдения на смърт и му казва:
+                - Слушай, утре като те сложат на електрическия стол и те попитат за последно желание...понеже ти е все тая, дали може да помолиш да ми увеличат заплатата...</Content>
+            <NumberOfLikes>145</NumberOfLikes>
+            <NumberOfHearts>18</NumberOfHearts>
+            <NumberOfHaha>76</NumberOfHaha>
+            <NumberOfWow>27</NumberOfWow>
+            <NumberOfSad>37</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="85">
+            <Content>- Докторе, вярно ли е че съществуват хора, които нямат проблеми и нищо не ги тревожи?
+                - Да, разбира се.
+                - Как може да разберем кои са?
+                - Лесно е. На палеца на крака имат картонче с фамилията...</Content>
+            <NumberOfLikes>141</NumberOfLikes>
+            <NumberOfHearts>14</NumberOfHearts>
+            <NumberOfHaha>50</NumberOfHaha>
+            <NumberOfWow>17</NumberOfWow>
+            <NumberOfSad>31</NumberOfSad>
+            <NumberOfFacebookShares>54</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="86">
+            <Content>- Докторе, порязах си ръката, с какво да я намажа? 
+                - О-о-о, трябва да се отреже - казал лекарят.
+                Пациентът побягнал към друг лекар и му се оплакал: 
+                - Докторе, порязах си ръката, отидох при ваш колега, а той поиска да ми я реже.
+                - Как ще я реже! Ето ти едни хапчета, пий ги, тя сама ще падне - рекъл лекарят.</Content>
+            <NumberOfLikes>79</NumberOfLikes>
+            <NumberOfHearts>10</NumberOfHearts>
+            <NumberOfHaha>49</NumberOfHaha>
+            <NumberOfWow>24</NumberOfWow>
+            <NumberOfSad>36</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="87">
+            <Content>- Коя си ти?
+                - Аз съм добрата фея.
+                - А защо носиш тая брадва?
+                - Нещо не съм на кеф...</Content>
+            <NumberOfLikes>151</NumberOfLikes>
+            <NumberOfHearts>15</NumberOfHearts>
+            <NumberOfHaha>65</NumberOfHaha>
+            <NumberOfWow>33</NumberOfWow>
+            <NumberOfSad>48</NumberOfSad>
+            <NumberOfFacebookShares>22</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="88">
+            <Content>Среща на анонимните алкохолици:
+                - Кога решихте да спрете пиенето?
+                - Ами, аз съм боксьор. И крушата започна да ме нокаутира!
+                - А вие?
+                - Шахматист съм. Накрая почнах да се задъхвам, докато местя фигурите!
+                - А Вие там в ъгъла - кога решихте, че прекалявате с алкохола?
+                - Ами аз съм патоанатом. Нощем взеха да ме посещават благодарни пациенти!</Content>
+            <NumberOfLikes>81</NumberOfLikes>
+            <NumberOfHearts>18</NumberOfHearts>
+            <NumberOfHaha>67</NumberOfHaha>
+            <NumberOfWow>28</NumberOfWow>
+            <NumberOfSad>29</NumberOfSad>
+            <NumberOfFacebookShares>23</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="89">
+            <Content>По време на погребение изведнъж се чува тропане в ковчега и викове: - Мими, Мими, отвори, аз още съм жив! - Митьо, млъкни, докторите знаят по-добре.</Content>
+            <NumberOfLikes>157</NumberOfLikes>
+            <NumberOfHearts>24</NumberOfHearts>
+            <NumberOfHaha>91</NumberOfHaha>
+            <NumberOfWow>23</NumberOfWow>
+            <NumberOfSad>31</NumberOfSad>
+            <NumberOfFacebookShares>12</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Църква</CategoryName>
+        <Anecdote id="90">
+            <Content>Младеж отива да се изповядва в църква. Сяда в стаичката и започва:
+                - Отче, онзи ден ми се наложи да преспя в един хотел. Обаче нямаше места и ми предложиха да спя в стаята на едно много красиво момиче. Аз обаче и с пръст не съм я докоснал. Грях ли е това?
+                - Не е грях, чадо! Ама като излезеш от църквата, отиди да изпиеш една кофа вода.
+                - Защо цяла кофа, отче?
+                - Защото едно говедо изпива точно толкова...</Content>
+            <NumberOfLikes>37</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>17</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>70</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="91">
+            <Content>Мъж и свещеник седят един до друг в самолет. При тях идва млада стюардеса. Мъжът си поръчва уиски с лед. - И на вас ли?- пита тя свещеника. - Не!-възкликва той. - По-добре да извърша прелюбодеяние, отколкото да вкуся алкохол. Мъжът смутено подава чашата си обратно на стюардесата. - Извинете, не знаех,че мога да избирам...</Content>
+            <NumberOfLikes>156</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>68</NumberOfHaha>
+            <NumberOfWow>11</NumberOfWow>
+            <NumberOfSad>27</NumberOfSad>
+            <NumberOfFacebookShares>50</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="92">
+            <Content>Поп ремонтира стол на двора. Група хлапета висят на оградата и го зяпат в ръцете.
+                - Майсторлък ли вземате, момчета? 
+                - Не, отче, искаме да разберем какво казват поповете, когато, вместо пирона, улучат пръстите си.</Content>
+            <NumberOfLikes>135</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>51</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>19</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="93">
+            <Content>В края на литургията свещеникът пита:
+                - Колко от вас, братя и сестри, простиха на враговете си?
+                Всички вдигат ръце, освен една съсухрена бабичка. Свещеникът я пита:
+                - А ти, сестро?
+                - Аз нямам врагове...
+                - Това е доста необичайно. А на каква възраст сте? - пита свещеникът.
+                - На 98.
+                - На 98? И нямате нито един враг!? Моля Ви, излезте, нека да Ви видят всички. И обяснете на останалите, как човек може да живее толкова дълго без врагове.
+                Старицата излиза отпред и изтърсва:
+                - Надживях ги, кучките!</Content>
+            <NumberOfLikes>170</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>92</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>19</NumberOfSad>
+            <NumberOfFacebookShares>50</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="94">
+            <Content>Току що назначен млад поп разбрал, че в края на селото живеела 30-годишна вдовица. По тъмна доба отишъл и почукал. Отвътре се чуло:
+                - Ти ли си, ангел мой?
+                - Не, ама съм от същата фирма!</Content>
+            <NumberOfLikes>91</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>49</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="95">
+            <Content>Умира милиардер. Свети Петър го посреща на вратите на рая:
+                - Здравейите - заглежда се в списъка - хммм.., имате една вила на Хаваите и друга на Канарските острови?
+                - Да.
+                - Къщи в Ню Йорк, Лондон, Париж, Москва и Токио?
+                - Да. Имам. Цял живот работих и постигнах всичко сам и освен това и данъците винаги си ги плащах.
+                - Ролс-Ройс, ламборджини и две ферарите?
+                - Да. Да. Да. Имам. Но какво значение има това? Не може ли да вляза в рая?
+                - Но, разбира се, че можете! Заповядайте... Просто се страхувам, че няма да ви хареса...</Content>
+            <NumberOfLikes>91</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>13</NumberOfWow>
+            <NumberOfSad>32</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="96">
+            <Content>Стилно облечена жена се обръща с молба към отец, седящ до нея в самолета.
+                - Отче, искам да ви помоля нещо&amp;hellip; купих подарък за майка ми, електрически сешоар, но ме е страх, че е над лимита и на летището ще ми го конфискуват. Можете ли да го скриете под расото?&amp;hellip; Те Вас едва ли ще Ви проверяват.
+                - Добре, но да знаете, че ако ме питат&amp;hellip; аз няма да лъжа. По-късно на летището митничарите спират отчето:
+                - Отче, имате ли нещо да декларирате?
+                - От главата до кръста&amp;hellip; абсолютно нищо. Митничарите се споглеждат особено.
+                - А от кръста надолу?
+                - Само един до болка познат уред, предназначен за жени&amp;hellip; все още неизползван&amp;hellip;
+                - Следващият!</Content>
+            <NumberOfLikes>273</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>64</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>48</NumberOfSad>
+            <NumberOfFacebookShares>41</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="97">
+            <Content>Монахиня се качва на стоп...Младата красавица, която спира, е със страхотна кола, скъпи бижута, маркови дрехи. Монахинята повежда разговор:
+                - Мило момиче, толкова си млада, кога успя да спечелиш за всичките тези блага?
+                - О, имам няколко любовника &amp;ndash; първият ми подари колата и се грижи за сервиза и горивото, вторият ме облича и ми купува диамантите, а с третия обикалям света ...
+                Монахинята се замислила дълбоко...Вечерта на килията ѝ се чука тихичко три пъти. Тя раздразнено крещи:
+                - Отец Нафърфорий, я да ми се махаш с тия вафли !!</Content>
+            <NumberOfLikes>57</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>28</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="98">
+            <Content>Заедно умират поп и шофьор на такси. Господ&amp;nbsp;посреща с най-големи почести шофьора. Попът се чувства засегнат: Господи, защо така.. цял живот съм ти служил?&amp;nbsp;Господ му отговаря: Да, но на твоите проповеди всички спяха.. а когато той, караше всички се молеха и кръстеха...</Content>
+            <NumberOfLikes>51</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>26</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>7</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="99">
+            <Content>- Дядо попе, ще дойдеш ли да осветиш къщата ми?
+                - Да. А тя колко квадрата е?
+                - Попе, аз те викам да я осветиш, а не да я шпакловаш!</Content>
+            <NumberOfLikes>52</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>37</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>22</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Началници и секретарки</CategoryName>
+        <Anecdote id="100">
+            <Content>Заради пандемията от коронавирус служител работи "хоум офис". Една сутрин звъни телефонът му. Обажда се мъж, който казва: - Моля да ме свържете с Вашия началник!".  Служителят се провиква към кухнята : - Мааамоооо!</Content>
+            <NumberOfLikes>31</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>14</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>11</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="101">
+            <Content>Моят шеф ми казва: 
+                - Дали може да дойдеш в събота в офиса? Знам, че си имаш планове за уикенда, но фирмата има нужда.
+                Аз казвам: 
+                - Няма проблем, но вероятно ще закъснея, защото през почивните дни градският транспорт е ужасен.
+                - Добре, кога мислиш, че може да стигнеш? 
+                - В понеделник.</Content>
+            <NumberOfLikes>148</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>80</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>38</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="102">
+            <Content>На интервю за работа:
+                – Как се казвате?
+                – Васил.
+                – Деца имате ли?
+                – Да, син Васил и дъщеря Василка!
+                – Хм, интересно… А домашни любимци?
+                – Котка Васка.
+                – Мда-а-а, в такъв случай, за съжаление, не можем да ви наемем за креативен мениджър…</Content>
+            <NumberOfLikes>140</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>64</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>24</NumberOfSad>
+            <NumberOfFacebookShares>31</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="103">
+            <Content>Млад човек е назначен за завеждащ отдел във фирмата. За да се представи добре, той работи до късно, но тръгвайки си една вечер, вижда шефа си да стои до машината за унищожаване на документи с някаква хартия в ръка.
+                - Слушай, – обръща се шефът към него – това е много важен документ, а моята секретарка си тръгна отдавна. Случайно да знаеш как работи тая машина?
+                - Разбира се, шефе! – натегнал се служителят.
+                Бързо включил машината, поставил документа в нея и натиснал копчето. Документът бавно се скрил в отвора.
+                - Чудесно, чудесно, какво ли щях да правя без теб – възкликнал шефът – а, и да не забравя, ще ми трябва в две копия…</Content>
+            <NumberOfLikes>97</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>50</NumberOfHaha>
+            <NumberOfWow>12</NumberOfWow>
+            <NumberOfSad>27</NumberOfSad>
+            <NumberOfFacebookShares>7</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="104">
+            <Content>Три дами, работещи в офис, решили да си тръгнат по-рано от работа, понеже шефката я нямало. Едната тръгнала на шопинг, другата на фризьор, третата направо вкъщи. Прибира се, отваря вратата на спалнята и какво да види – мъжът ѝ с шефката в леглото... Затваря леко и бързо назад в офиса.
+                На следващия ден колежките ѝ искат да си тръгнат пак рано, шефката я няма.
+                - Ааа, ако искайте тръгвайте, аз не... Мен вчера за малко да ме хване...</Content>
+            <NumberOfLikes>191</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>127</NumberOfHaha>
+            <NumberOfWow>13</NumberOfWow>
+            <NumberOfSad>42</NumberOfSad>
+            <NumberOfFacebookShares>103</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="105">
+            <Content>Срещат се двама бизнесмени.
+                – Как е бизнесът?
+                – Кое?
+                – Бизнесът!
+                – От половин година вече нямам бизнес.
+                – Сериозно? И какво имаш?
+                – Проблеми…</Content>
+            <NumberOfLikes>45</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>38</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>32</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="106">
+            <Content>Шефът ме пита:
+                - Ти на една ракия можеш ли да работиш?
+                - Мога.
+                - А на две ракии?
+                - Мога.
+                - А на три ракии?
+                - Мога.
+                - А на литър ракия?
+                - Шефе, нали виждаш, че си работя? Няма проблем.</Content>
+            <NumberOfLikes>103</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>56</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>66</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="107">
+            <Content>Началник се връща от командировка. Секретарката му казва: - Имам няколко лоши новини и една добра. - Кажи първо лошите! - Ами данъчните ни направиха проверка и блокираха сметките на фирмата. Шофьорът удари служебната кола. Пропаднаха ни две продажби... - А добрата новина? - Ще си имаме дете, скъпи!</Content>
+            <NumberOfLikes>16</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>12</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="108">
+            <Content>Приятели се хвалят на маса за трудовите си успехи. Кой бил с по-висока заплата, кой на по-висока позиция. Накрая се обадил кранистът Киро: 
+                - Аз пък вече два пъти замествам шефа!
+                - Е, как така? Ти си един прост кранист. Не може да го заместиш! 
+                - Ако не вярваш, върви питай жена му!</Content>
+            <NumberOfLikes>156</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>63</NumberOfHaha>
+            <NumberOfWow>91</NumberOfWow>
+            <NumberOfSad>32</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="109">
+            <Content>Шеф на голяма фирма хвали възторжено своя заместник:
+                - Поздравления! Постигнахте невероятни успехи. Само преди година постъпихте при нас като момче за всичко. Два месеца по-късно станахте шеф на екип, след още два месеца шеф на отдел. Показахте качества и ви включихме в Управителния съвет, а сега вече сте първи вицепрезидент. Какво ще кажете?
+                - Мерси, тате!</Content>
+            <NumberOfLikes>91</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>54</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>51</NumberOfSad>
+            <NumberOfFacebookShares>15</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Луди</CategoryName>
+        <Anecdote id="110">
+            <Content>Психиатър към пациент:
+                - Поздравявам Ви! При Вас се забелязва голям напредък!
+                - Какъв напредък? Преди половин година бях Наполеон, а сега кой съм? Никой!</Content>
+            <NumberOfLikes>56</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="111">
+            <Content>Инспектират психиатрия. Проверяващият пита подготвен за изписване болен:
+                - Доволен ли сте от пребиваването си тук?
+                - О, да! Много са добри! Положително и Вас ще излекуват!
+                - Но аз съм министърът на здравеопазването!
+                - Не се притеснявайте, аз, когато влязох тук, бях министър-председател!</Content>
+            <NumberOfLikes>76</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>42</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>12</NumberOfSad>
+            <NumberOfFacebookShares>29</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="112">
+            <Content>Шефът на лудницата събира трима луди и им казва:
+                - Момчета слушайте, защото който ми каже на колко е равно осем по седем ще го изпишем веднага.
+                Първият луд мислил, мислил и казал - четвъртък. Вторият луд мислил, мислил и казал - 198. А пък третият без да се замисли казал 56.
+                Тогава шефа се израдвал много и попитал лудия:
+                - Браво бе Пешо, ама как разбра?
+                А лудият се усмихнал и казал:
+                - Елементарно, разделих четвъртък на 198...</Content>
+            <NumberOfLikes>65</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>9</NumberOfSad>
+            <NumberOfFacebookShares>13</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="113">
+            <Content>Лудите си правят културно събитие - литературно четене. Става един, чете някаква книга. Всички са във възторг - стават на крака, ръкопляскат. Само един мърмори:
+                - Абе хубава пиеса, ама много действащи лица...
+                В този момент влиза един санитар:
+                - Ей, психари! Кой е задигнал телефонния указател?</Content>
+            <NumberOfLikes>70</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>33</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="114">
+            <Content>Психиатър в лудницата решава кръстословица. Стига до "Родното място на Наполеон" и се обръща към един от пациентите: - Ей, куку, къде си роден?</Content>
+            <NumberOfLikes>67</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>57</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>34</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="115">
+            <Content>В лудницата:
+                - Ти кой си?
+                - Аз съм Наполеон.
+                - Е, то тука всички сме генерали...
+                - Ааа, не – аз съм коняк!</Content>
+            <NumberOfLikes>81</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>45</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>38</NumberOfSad>
+            <NumberOfFacebookShares>26</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="116">
+            <Content>Психиатър пита пациент:
+                - Как си, още ли си Наполеон?
+                - Още.
+                - Мога ли с нещо да ти помогна?
+                - Можеш, жена ми се мисли за някаква Петрова, направи нещо!</Content>
+            <NumberOfLikes>107</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>41</NumberOfHaha>
+            <NumberOfWow>11</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="117">
+            <Content>Пациент вързал с връвчица една тухла и взел да я влачи. Минал покрай него главният лекар и за да го изпита дали се оправя, му казал:
+                &amp;ndash; Много хубаво кученце водиш.
+                &amp;ndash; Това не е кученце, а тухла &amp;ndash; отвърнал пациентът.
+                Доволен от отговора му, главният лекар се прибрал в кабинета си.
+                Тогава пациентът се озърнал, клекнал, погалил тухлата и рекъл:
+                &amp;ndash; Ей, Шаро, пак го преметнахме тоя баламурник!</Content>
+            <NumberOfLikes>127</NumberOfLikes>
+            <NumberOfHearts>12</NumberOfHearts>
+            <NumberOfHaha>74</NumberOfHaha>
+            <NumberOfWow>20</NumberOfWow>
+            <NumberOfSad>24</NumberOfSad>
+            <NumberOfFacebookShares>35</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="118">
+            <Content>- Каква е разликата между лудия и невротика?
+                - Ами лудият знае, че 2+2 е равно на 5, а невротикът знае, че 2+2 е равно на 4, но това му се струва непоносимо.</Content>
+            <NumberOfLikes>136</NumberOfLikes>
+            <NumberOfHearts>14</NumberOfHearts>
+            <NumberOfHaha>63</NumberOfHaha>
+            <NumberOfWow>11</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>19</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="119">
+            <Content>Инспектират психиатрия. Проверяващият пита подготвен за изписване болен:
+                - Доволен ли сте от пребиваването си тук?
+                - О, да! Много са добри! Положително и Вас ще излекуват!
+                - Но аз съм министърът на здравеопазването!
+                - Не се притеснявайте, аз, когато влязох тук, бях министър-председател!</Content>
+            <NumberOfLikes>246</NumberOfLikes>
+            <NumberOfHearts>38</NumberOfHearts>
+            <NumberOfHaha>53</NumberOfHaha>
+            <NumberOfWow>18</NumberOfWow>
+            <NumberOfSad>21</NumberOfSad>
+            <NumberOfFacebookShares>102</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Студенти и ученици</CategoryName>
+        <Anecdote id="120">
+            <Content>- Мамо, учителката по български ме похвали!
+                - Браво! И какво ти каза?
+                - Каза, че пиша като лекар с 30-годишна практика.</Content>
+            <NumberOfLikes>59</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>41</NumberOfSad>
+            <NumberOfFacebookShares>13</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="121">
+            <Content>В час по физика учителката обяснява на учениците:
+
+                – Според третия закон на Нютон всяко действие предизвиква равно на силата му противодействие.
+
+                От последния чин се вдига ръка.
+
+                – Какво не разбра?
+
+                – Госпожо, а защо като даваме на катаджиите пари, те изобщо не се съпротивляват?</Content>
+            <NumberOfLikes>18</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>3</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="122">
+            <Content>Баща пита сина си:
+                - Митко, как върви онлайн училището?
+                - Не знам! Аз мойта учителка я блокирах!</Content>
+            <NumberOfLikes>58</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>25</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>72</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="123">
+            <Content>Образователната реформа най-после е приключила.
+                Годината е 2030-а. Час по физика.
+                – Деца, кой ще ми каже как протича електрическият ток по проводниците?
+                – С Божията помощ, госпожице!
+                – Браво, Иванчо! Шест!</Content>
+            <NumberOfLikes>41</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>20</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>14</NumberOfSad>
+            <NumberOfFacebookShares>39</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="124">
+            <Content>- Колега, били ли сте редовно на лекциите ми? 
+                - Разбира се, професоре.
+                - Но аз не съм ви виждал никога! Къде сядахте? 
+                - Зад колоната.
+                - Ама, че работа! Петдесет сантиметра колона, а вие сте седемнадесетият студент, който е седял зад нея.</Content>
+            <NumberOfLikes>101</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>71</NumberOfHaha>
+            <NumberOfWow>12</NumberOfWow>
+            <NumberOfSad>16</NumberOfSad>
+            <NumberOfFacebookShares>21</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="125">
+            <Content>Учителката поучава класа:
+                –  Мили деца, запомнете – тези, които получават само петици и шестици, ще отидат в рая. А двойкаджиите – в ада…
+                От последния ред някой вдига ръка.
+                – Госпожо, а няма ли начин да завършим училище живи?</Content>
+            <NumberOfLikes>111</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>44</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>15</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="126">
+            <Content>Професор дълго и мъчително изпитва студент, за да му пише тройка. Накрая вече уморен казва:
+                – Добре, кажи нещо, което си чел от лекциите.
+                Студентът мълчи.
+                – Добре, добре... тогава поне кажи кой ви четеше лекциите?
+                Студентът отново мълчи.
+                – Ще ти дам насочващ въпрос: ти или аз?</Content>
+            <NumberOfLikes>56</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>28</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="127">
+            <Content>Образователната реформа най-после е приключила. Годината е 2030-а.
+                Училище. Час по физика.
+                – Деца, кой ще ми каже как протича електрическият ток по проводниците?
+                – С Божията помощ, госпожице!
+                – Браво, Иванчо! Шест!</Content>
+            <NumberOfLikes>45</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>8</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="128">
+            <Content>- Иване, кога е умрял Луи IX?
+                - Ама, госпожо, аз дори не знаех, че е бил болен....</Content>
+            <NumberOfLikes>80</NumberOfLikes>
+            <NumberOfHearts>11</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="129">
+            <Content>Изпит. Професорът задава въпрос след въпрос, студентът мълчи.
+                - Добре, последен въпрос: Кой е открил Америка?
+                Студентът повдига рамене.
+                - Колумб! - направо крещи преподавателя.
+                - Колумб!
+                Студентът става и тръгва.
+                Преподавателят:
+                - Къде тръгна, бе!?
+                - Помислих, че викате следващия...</Content>
+            <NumberOfLikes>185</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>108</NumberOfHaha>
+            <NumberOfWow>13</NumberOfWow>
+            <NumberOfSad>25</NumberOfSad>
+            <NumberOfFacebookShares>72</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Радио Ереван</CategoryName>
+        <Anecdote id="130">
+            <Content>Въпрос кън радио "Ереван": - По какво си приличат случайният секс и интервюто за работа? Отговор на радиото: - Винаги завършват с думите "Непременно ще ви се обадим!"</Content>
+            <NumberOfLikes>56</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>14</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="131">
+            <Content>Въпрос към радио "Ереван":
+                - Какво представлява сексът?
+                Отговор на радиото:
+                - Сексът е като кредита: на някои им дават, а на някои - не....</Content>
+            <NumberOfLikes>62</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>24</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>9</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="132">
+            <Content>Въпрос към радио Ереван: "Защо хората казват "Да не дава Господ?"
+
+                Отговор на радиото: "Фразата се родила, след като Господ дал Ева на Адам..."</Content>
+            <NumberOfLikes>86</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>9</NumberOfSad>
+            <NumberOfFacebookShares>53</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="133">
+            <Content>Въпрос към радио "Ереван": - Каква е разликата между палеца и средния пръст? Отговор на радиото: - Пробвайте да се качите на автостоп, като покажете среден пръст.</Content>
+            <NumberOfLikes>77</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>32</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>46</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="134">
+            <Content>Въпрос към Радио Ереван: - Вярно ли е това, че жените живеят по-дълго от мъжете? - Вярно е. Особено вдовиците...</Content>
+            <NumberOfLikes>51</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>20</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>24</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="135">
+            <Content>Въпрос кън радио "Ереван": - По какво си приличат случайният секс и интервюто за работа? Отговор на радиото: - Винаги завършват с думите "Непременно ще ви се обадим!"</Content>
+            <NumberOfLikes>66</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>25</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>2</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="136">
+            <Content>Блондинка се обажда в радио Ереван:
+                - Как най-бързо мога да стана секретарка на голям шеф?
+                Радио Ереван отговаря:
+                - На сексуални въпроси не отговоряме!</Content>
+            <NumberOfLikes>61</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>12</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="137">
+            <Content>Въпрос към радио Ереван: - Какво е светлинна година? Отговор на радиото: - Сметката за тока за дванадесет месеца...</Content>
+            <NumberOfLikes>102</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>28</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>27</NumberOfSad>
+            <NumberOfFacebookShares>35</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="138">
+            <Content>Попитали радио Ереван по какво човекът прилича на компютъра. Радиото отговорило: - Също като компютъра на млади години човек има достатъчно хардуер и малко софтуер, на старини има софтуер в изобилие, но все не достига хардуерът.</Content>
+            <NumberOfLikes>156</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>38</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>16</NumberOfSad>
+            <NumberOfFacebookShares>126</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="139">
+            <Content>Въпрос към радио "Ереван": - Кой писател е класик? Отговор на радиото: - Оня писател, когото можем да хвалим, без да сме го чели...</Content>
+            <NumberOfLikes>76</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>28</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Мутри</CategoryName>
+        <Anecdote id="140">
+            <Content>Пътуват си две мутри с G класата през пустинята. Единият:
+                - Копеле, тука е валяло много сняг.
+                - Що?
+                - Я гледай как са опесъчили...</Content>
+            <NumberOfLikes>31</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>12</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="141">
+            <Content>Между мутри:
+                - Как? Ти не знаеш кои са Бах и Бетовен?
+                - Не, не знам, брат, кои са те?
+                - Това са ония загубеняци, дето ни пишат мелодиите за мобифоните...</Content>
+            <NumberOfLikes>36</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>7</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="142">
+            <Content>Катаджия спира мутра с BMW на пътя. Непосредствено след BMW-то спират пожарникарска кола и линейка. Катаджията им дава знак да продължат, защото е спрял само мутрата. В този момент мутрата сваля стъклото и се провиква:
+                - Ааа, те са с мен.
+                - Е, как така? – пита полицаят.
+                - Ами вие катаджиите все я за аптечка ще се заядете, я за пожарогасител…</Content>
+            <NumberOfLikes>171</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>82</NumberOfHaha>
+            <NumberOfWow>11</NumberOfWow>
+            <NumberOfSad>25</NumberOfSad>
+            <NumberOfFacebookShares>79</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="143">
+            <Content>Между мутри:
+                - Кой ден сме днес?
+                - Е, де да знам, те вечно ги сменят дните.</Content>
+            <NumberOfLikes>25</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>10</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="144">
+            <Content>Катаджия спира кола. Зад волана е мутра. Катажията внимателно разглежда книжката му. Мутрата:- Мислиш, че съм я купил ли? Не си познал! Подариха ми я за рождения ден!</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>25</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="145">
+            <Content>Мутра в книжapницa: – Имате ли книги? – Това, ĸoeтo виждате са все книги. – Супep! Дайте четири! – Някакво по-леко четиво ли? – пита продавачката. – Абе, давай каквoтo има, аз съм с джипа!</Content>
+            <NumberOfLikes>39</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>4</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="146">
+            <Content>Мутра отива в туристическа агенция:
+                - Ще ми се малко да си почина, ама ми трябва нещо по-така...
+                - Какво ще кажете за Бахамските острови?
+                - Не. Там вече ходих. Иска ми се нещо по-специално, да се отвлека от ядовете, от работата.
+                - Малко ски из Алпите?
+                - Не. И това съм го правил.
+                - Знам какво ви е нужно - сафари!
+                - Това какво е?
+                - Ще се повозите на джип, ще постреляте...
+                - Че то все едно съм на работа!!</Content>
+            <NumberOfLikes>170</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>51</NumberOfHaha>
+            <NumberOfWow>14</NumberOfWow>
+            <NumberOfSad>23</NumberOfSad>
+            <NumberOfFacebookShares>29</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="147">
+            <Content>По празниците мутра пита новата си приятелка блондинка: - Ти какви подаръци харесваш, муце? Повече, но по-малки или един, ама голям? Тя отговорила радостно: - Много, но по-малки!!! - Офф, ама как да разглобя оня баварец отвън - жал ми е..</Content>
+            <NumberOfLikes>50</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>38</NumberOfHaha>
+            <NumberOfWow>20</NumberOfWow>
+            <NumberOfSad>32</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="148">
+            <Content>Изгоряла къщата на мутра и манекенка. Тя седи и циври:
+                - Изгоряха ми роклитееее, изгоряха ми гримоветееее...
+                Мутрата седи и псува:
+                - Да му се и... изгоря ми цялата библиотека.
+                Кипнала манекенката:
+                - К&amp;#39;ва библиотека бе - имаше три книжки!?!
+                - Да, ама едната не си я бях дооцветил!</Content>
+            <NumberOfLikes>126</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>96</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>27</NumberOfSad>
+            <NumberOfFacebookShares>18</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="149">
+            <Content>Багер закача последен модел мерцедес. От мерцедеса слиза мутра и се засилва към багера, и злобно отваря вратата... Вътре седи огромен Багерист, който едва се побира в кабината...
+                Гледа го от високо, и пита:
+                - Кво искаш, бе?
+                - Ами..., ключ 19 имаш ли?
+                - Не, аз до 27 ги завивам с ръка...</Content>
+            <NumberOfLikes>103</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>58</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>36</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Животните</CategoryName>
+        <Anecdote id="150">
+            <Content>Влиза заека в един магазин за ел. уреди и пита:
+                - Добър ден! Круши имате ли?
+                - Не, нямаме!
+                На следващия ден пак отишъл:
+                - Добър ден! Круши имате ли?
+                - Не, нямаме! Но ако дойдеш още веднъж ще ти закова лапите с пирони за масата!
+                Но на следващия ден Зайо пак отива, влиза предпазливо и пита:
+                - Извинете пирони имате ли?
+                - Не!
+                - А круши?</Content>
+            <NumberOfLikes>75</NumberOfLikes>
+            <NumberOfHearts>21</NumberOfHearts>
+            <NumberOfHaha>24</NumberOfHaha>
+            <NumberOfWow>11</NumberOfWow>
+            <NumberOfSad>12</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="151">
+            <Content>Гостите звънят на вратата. Домакинята отваря и изведнъж покрай нея се шмугва черен котарак и като черна мълния тича към покрива.
+                После в мазето, в гаража, на двора, край контейнера за боклук.
+                Домакинята гледа тъжно след него:
+                – Не му обръщайте внимание. Днес бяхме при ветеринаря и го кастрирахме…
+                – Затова ли тича като обезумял?
+                – Аха… Тича да си отменя срещите.</Content>
+            <NumberOfLikes>77</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>65</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>44</NumberOfSad>
+            <NumberOfFacebookShares>25</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="152">
+            <Content>Снажен африканец влиза в бар, а на рамото му седи страхотен папагал.
+                Барманът зяпва и пита:
+                - Къде го намери този красавец?!
+                - В Африка, отговаря папагалът. Там ги има много...</Content>
+            <NumberOfLikes>76</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>29</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>10</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="153">
+            <Content>Орнитологът изскача от кабинета си с писък.
+                – Какво стана? – питат го колегите.
+                – Сложих пръстен на крака на една чапла!
+                – Е, чудесно, значи ще можем да проследим миграцията й …
+                – Да, ама тя ми рече – „Съгласна съм“!</Content>
+            <NumberOfLikes>65</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>41</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>11</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="154">
+            <Content>Научила мечката, че ще има ревизия в гората. Разтревожила се:
+                - Бре, ами сега! Аз - с кожух, мъжът ми - с кожух, децата - и те с кожуси. На една заплата - откъде!?
+                Хукнала да се спасява. Срещнала я костенурката:
+                - Мецо, накъде си хукнала?
+                - Остави се... Ревизия ще има. Как да обяснявам откъде са всичките тези кожуси?
+                Стреснала се костенурката:
+                - Бре, ами сега! Аз - с къща, мъжът ми - с къща, децата - и те с къщи. На една заплата - откъде!?
+                Хукнала след мечката. Срещнал ги щъркелът:
+                - Какво сте се разбягали така? Фитнес за сваляне на килограми ли правите?
+                - Остави се... Ревизия ще има. Как да обясняваме откъде са всичките тези кожуси и къщи?
+                Изстинала му усмивката на щъркела:
+                - Бре, ами сега! Аз - всяка година на екскурзия в чужбина, жена ми - на екскурзия в чужбина, децата - и те на екскурзия в чужбина. На една заплата - откъде!?
+                Хукнал с тях. Срещнали маймуната. Като ги видяла, че бягат - и тя се присъединила. По едно време се уморила и се сетила да ги пита защо бягат. Обяснили й за ревизията. Маймуната се плеснала по челото и рекла:
+                - Бягате, защото не ви е чиста работата. Ами аз, с моето голо дупе, накъде съм хукнала?!</Content>
+            <NumberOfLikes>63</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>40</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="155">
+            <Content>- Имате страхотен питбул. Много е як! - И е страшно амбициозен! Когато го взех, беше дакел.</Content>
+            <NumberOfLikes>26</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="156">
+            <Content>Царят лъв строява животните:
+                - Умните наляво, красивите надясно.
+                Жабата се обажда:
+                - Е аз сега какво, да се разчекна ли?</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>107</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>63</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="157">
+            <Content>Две акули си говорят: 
+                - Не обичам водолазите, имат вкус на гума. Това се търпи, но после цял ден имам киселини.
+                - Много си задръстена! Водолазите се белят преди ядене.</Content>
+            <NumberOfLikes>56</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>38</NumberOfHaha>
+            <NumberOfWow>15</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="158">
+            <Content>Прибира се един мъж вкъщи и гледа на входната врата залепен един охлюв. Отлепил го нашия с ръка и го захвърлил, през два двора в съседите. След една година се чука на вратата му и той отваря. Насреща охлювът и го пита:
+                - И тв`а сега, защо го направи?!</Content>
+            <NumberOfLikes>50</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>32</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="159">
+            <Content>Магьосник работел на кораб в Карибско море. Пътуващите всяка седмица били различни, затова магът правел едни и същи фокуси всеки път. За нещастие обаче папагалът на капитана започнал да разбира как стават номерата и започнал да разваля шоуто. По време на представлението извкрещявал: "Това не е същата шапка," "Крие цветята под масата", "Защо всички карти са асо?"
+                Магьосникът бил бесен, но нямало какво да направи. Един ден корабът претърпял инцидент и потънал. Магьосникът се озовал на една греда насред океана заедно с папагала. Двамата се гледали с омраза, но не отронили и дума. Минал ден, минал втори, никой не казвал нищо. Най-накрая, след близо седмица, папагалът промълвил:
+                - Добре, предавам се. Къде е корабът?</Content>
+            <NumberOfLikes>270</NumberOfLikes>
+            <NumberOfHearts>20</NumberOfHearts>
+            <NumberOfHaha>127</NumberOfHaha>
+            <NumberOfWow>14</NumberOfWow>
+            <NumberOfSad>17</NumberOfSad>
+            <NumberOfFacebookShares>42</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Любими герои</CategoryName>
+        <Anecdote id="160">
+            <Content>Джеймс Бонд в Несебър:
+                – Ммм, кафе. Дълго кафе.
+                – ...три лева. Двадесет и три лева.</Content>
+            <NumberOfLikes>15</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>10</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="161">
+            <Content>Бащата на Иванчо::
+                - Кажи на учителката си, че вече имаш две братчета-близначета и затова ще отсъстваш от училище една седмица.
+                Отива Иванчо, връща се и казва:
+                - Учителката ти праща много поздрави за новородения син.
+                - Как така един син? Ти не й ли каза, че са близнаци?
+                - Не, второто си го запазих за другата седмица.</Content>
+            <NumberOfLikes>33</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="162">
+            <Content>- Иванчо, каква е дилемата на Хамлет от съвременна гледна точка?
+                - Да се ожени или да се омъжи, госпожо...</Content>
+            <NumberOfLikes>33</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>8</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>17</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="163">
+            <Content>Двама шопи разговарят на брега на язовир “Искър”:
+                - Ей, глей колко много вода! Цела София пие вода от тука. Страшно много е т&amp;#39;ва!
+                - Абе, ами ако това не беше вода, а ракия?
+                - Е, че колко ракия е това?!</Content>
+            <NumberOfLikes>145</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>86</NumberOfHaha>
+            <NumberOfWow>17</NumberOfWow>
+            <NumberOfSad>47</NumberOfSad>
+            <NumberOfFacebookShares>42</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="164">
+            <Content>Лондон. Къща. Камина. Пред огъня по халат седи джентълмен в луксозно кресло. В едната ръка цигара, в другата чаша уиски. Тишина и спокойствие...
+                Изведнъж с трясък се разбива стената и във всекидневната се врязва един мерцедес. Джентълменът, без да сменя удобната си поза, пита абсолютно спокойно изплашения шофьор:
+                - За къде така бързате, сър?
+                - За Манчестър!
+                - Ще стигнете по-бързо през кухнята!</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>36</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>12</NumberOfSad>
+            <NumberOfFacebookShares>22</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="165">
+            <Content>- Как живееш, Аврам? - Живея бедно, Моше. Сирене с плесен ям, пия старо вино, имам кола без покрив, телефон без копчета....</Content>
+            <NumberOfLikes>38</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>13</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>13</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="166">
+            <Content>Синът на Рабинович скача в леглото му и вика:
+                - Папа, папа, а аз сънувах, че ми даваш сто долара!
+                Рабинович се протяга блажено:
+                - Виждаш ли какъв хубав ден те очаква днес! Задръж ги.</Content>
+            <NumberOfLikes>25</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>8</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>0</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="167">
+            <Content>Свети Петър седи на вратата на рая. Приближава се чернокож.
+                - Как се казваш?
+                - Леонардо ди Каприо.
+                - Я изчакай малко тук - смутено отговорил светията.
+                После набира мобилен телефон и пита:
+                - Шефе, последно не разбрах - “Титаник” потъна ли или изгоря?</Content>
+            <NumberOfLikes>146</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>80</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>20</NumberOfSad>
+            <NumberOfFacebookShares>50</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="168">
+            <Content>- Иванчо, защо си подарил на баба си футболна топка?
+                - А тя защо само книги ми подарява?</Content>
+            <NumberOfLikes>45</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>22</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>75</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="169">
+            <Content>Питат поручик Ржевски:
+                - Как успявате да се ползвате с такъв успех сред жените?
+                - Спя с тях - отвръща той, - а това сближава много!</Content>
+            <NumberOfLikes>25</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>7</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Компютърни</CategoryName>
+        <Anecdote id="170">
+            <Content>Програмистите чак сега разбраха, че начинът им на живот се казва “карантина”.</Content>
+            <NumberOfLikes>32</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>18</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="171">
+            <Content>Форум за програмисти:
+                - Как да сканирам документ, в къщи съм, нямам скенер, и не ми се излиза?
+                - Сложи документа на прозореца, влез в Google Earth, приближи до прозореца и направи скрийншот...</Content>
+            <NumberOfLikes>78</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="172">
+            <Content>Ако се притеснявате, че някой комшия ви краде от безжичния интернет, има много просто решение. Отворете прозорците, изключете рутера и се заслушайте! По псувните ще ги познаете!</Content>
+            <NumberOfLikes>81</NumberOfLikes>
+            <NumberOfHearts>9</NumberOfHearts>
+            <NumberOfHaha>31</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="173">
+            <Content>След като видяха доходите на 5 млн. българи, хакерите се извиниха и започнаха благотворителна кампания за набиране на средства..</Content>
+            <NumberOfLikes>31</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>7</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="174">
+            <Content>Още на времето прадядо ми беше хакер. Казваше:
+                - Ако ти хакна един бастун!</Content>
+            <NumberOfLikes>40</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>0</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="175">
+            <Content>Надпис в отдел “Поддръжка на компютърната техника” на голяма фирма:
+                - Теория - когато знаете всичко, но нищо не работи.
+                - Практика - когато всичко работи, но не знаете защо.
+                - При нас съчетаваме теорията с практиката - нищо не работи и нямаме понятие защо.</Content>
+            <NumberOfLikes>20</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>0</NumberOfSad>
+            <NumberOfFacebookShares>13</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="176">
+            <Content>4- годишният Митко хакна мрежата на общината и се класира директно в 5 детски градини.</Content>
+            <NumberOfLikes>50</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>26</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>17</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="177">
+            <Content>Съобщение: "Вчера за пръв път хакер беше осъден за проникване в чужда компютърна мрежа и влезе в затвора да излежава 20-годишна присъда.
+                По данни от централния компютър на полицията, вдругиден хакерът излиза на свобода поради изтичане срока на наказанието".</Content>
+            <NumberOfLikes>125</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>62</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>25</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="178">
+            <Content>Заявявам веднъж завинаги на целия интернет, че не съм съгласен да използвам бисквитки, а бира и цаца. Престанете да ме питате!</Content>
+            <NumberOfLikes>70</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>34</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>36</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="179">
+            <Content>Бъдете хладнокръвни пред компютъра – ако "Уиндоус" разбере, че имате спешна работа, ще почне да се ъпдейтва.</Content>
+            <NumberOfLikes>70</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>35</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>10</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Семейни</CategoryName>
+        <Anecdote id="180">
+            <Content>В мола млад мъж с количка с ревящо бебе обикаля магазините да намери съпругата си. Ритмично поклаща количката и повтаря: 
+                - Спокойно, Владко, спокойно, Владко...
+                Разминаващият си с него мъж не издържал на писъците, идващи от количката: 
+                - Вземете го тоя Владко на ръце, та белким млъкне! 
+                Младият мъж през зъби: 
+                - Аз съм Владко!</Content>
+            <NumberOfLikes>56</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>46</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>59</NumberOfSad>
+            <NumberOfFacebookShares>21</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="181">
+            <Content>Дори да си най-секси майката в квартала, като дойде някое дете и ти каже "Лельо Веске”, всичко отива по дяволите!</Content>
+            <NumberOfLikes>23</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>21</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>36</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="182">
+            <Content>Съпруга към мъжа си:
+                - И престани да ме наричаш идиотка, защото така обиждаш и себе си. Ето например, ако се бях омъжила за генерал, сега щяха да ме наричат генералша!</Content>
+            <NumberOfLikes>66</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="183">
+            <Content>Жена дресира кученце. Съпругът и казва:
+                - Скъпа, съмнявам се, че от това ще излезе нещо.
+                Жената:
+                - Нищо, най-важно в тази работа е търпението. С теб също в началото не беше лесно.</Content>
+            <NumberOfLikes>40</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>6</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="184">
+            <Content>Жена прегръща нежно мъжа си.
+                - От къде се взе толкова красив и умен?
+                Свекървата се обажда от кухнята.
+                - Да ти покажа ли...</Content>
+            <NumberOfLikes>59</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>49</NumberOfHaha>
+            <NumberOfWow>28</NumberOfWow>
+            <NumberOfSad>31</NumberOfSad>
+            <NumberOfFacebookShares>13</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="185">
+            <Content>- Къде отиваш в 3 през нощта?
+                - Да видя дали изгасих лампата в кухнята.
+                - А, добре, донеси едно кюфте и на мен!</Content>
+            <NumberOfLikes>62</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>51</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>102</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="186">
+            <Content>- Скъпа, помниш ли веднъж като отидох в гората на лов, загубих се и преспах в една хижа?
+                - Оф не ми се слушат ловджийските ти истории, давай направо!!!
+                - Момиченце на 3 годинки!</Content>
+            <NumberOfLikes>57</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>59</NumberOfHaha>
+            <NumberOfWow>33</NumberOfWow>
+            <NumberOfSad>37</NumberOfSad>
+            <NumberOfFacebookShares>8</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="187">
+            <Content>- Тате, а ти какво си искал повече - момче или момиче?
+                - Сине, аз исках само да си изкарам хубаво на 8 декември...</Content>
+            <NumberOfLikes>83</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>37</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>19</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="188">
+            <Content>- Сине, време е да поемеш управлението на фирмата!
+                - Тате, но ти нямаш фирма!
+                - Знам, но гледах турски сериал и така хубаво прозвуча...</Content>
+            <NumberOfLikes>105</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>53</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>20</NumberOfSad>
+            <NumberOfFacebookShares>21</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="189">
+            <Content>Мъж в командировка праща SMS на жена си:
+                “И все пак обичам само теб!”
+                В отговор получава: “Засега и ти си най-добрият.”</Content>
+            <NumberOfLikes>30</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>22</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Разни</CategoryName>
+        <Anecdote id="190">
+            <Content>"Подай кофата да си сипа вино"– врачански сомелиерски термин</Content>
+            <NumberOfLikes>4</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>0</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>0</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="191">
+            <Content>- Тайната на моето дълголетие е чесънът - сподели майстор Васил.
+                - За никого не е тайна! - споделиха колегите му.</Content>
+            <NumberOfLikes>1</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>0</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>0</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="192">
+            <Content>- Представи си, че си сама вкъщи и дойдат извънземните. Какво ще направиш?
+                - Мусака. На всички им харесва.</Content>
+            <NumberOfLikes>25</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>22</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="193">
+            <Content>Искам да стана един от онези хора от WS Teleshop, разказващи как сокоизтисквачка или проточно бойлерче им е променило живота и са намерили себе си.</Content>
+            <NumberOfLikes>3</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>4</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>0</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="194">
+            <Content>- Ало, техниците ли сте?
+                - Да, кажете какъв е проблемът?
+                - Рутерът ми не работи!
+                - Кои лампи светят?
+                - В хола и в банята.
+                - Оставете, ще пратим техник...</Content>
+            <NumberOfLikes>146</NumberOfLikes>
+            <NumberOfHearts>9</NumberOfHearts>
+            <NumberOfHaha>70</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>34</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="195">
+            <Content>Село... Нощ... Младеж и девойка седят на пейка и гледат небето... Той я пита:
+                - Виждаш ли тази звезда горе?
+                Тя:
+                - Виждам я...
+                Той:
+                - Това си ти... А онази виждаш ли я?
+                Тя:
+                - Виждам я...
+                Той:
+                - Това съм аз... А онези двете една върху друга виждаш ли ги?
+                Тя, усещайки вече накъде вървят нещата, се сгушва в него и отговаря:
+                - Да, виждам ги, виждам ги...
+                Той замечтано въздъхва:
+                - Е, това съм аз на мотора...</Content>
+            <NumberOfLikes>58</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>55</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>62</NumberOfSad>
+            <NumberOfFacebookShares>25</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="196">
+            <Content>Идвал студ от Сибир. А море от Малдивите, а пари от емирствата... кога?!</Content>
+            <NumberOfLikes>34</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>11</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="197">
+            <Content>Отиват индианците при шамана и го питат:
+                - Тежка ли ще е зимата, да знаем колко дърва да събираме?
+                - Кучетата ще умират от студ - отговорил им шаманът.
+                След един месец:
+                - Да събираме ли още дърва?
+                - Събирайте, вълците ще умират от студ!
+                След още един месец:
+                - Още да събираме ли?
+                - Още, още, мечките ще умират от студ!
+                Но на шамана му станало гузно дали не е подвел хората си и решил да отиде на върха, където имало метеорологична станция и да попита бледоликите каква ще е зимата. На портала видял един техник, качен на стълб, и го попитал:
+                - Момче, тази зима дали ще е студена?
+                - Голям студ, дядо, мечките ще умират от студ!
+                Шаманът, доволен се обърнал да си върви, но все пак попитал:
+                - Вие по тези жици ли познавате?
+                - Остави ги жиците, гледай индианците колко дърва събират!</Content>
+            <NumberOfLikes>89</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>21</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>7</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="198">
+            <Content>Опитен ски инструктор съветва младите скиори:
+                - И запомнете от мен, момчета, най-добре е да заобиколите дърво от едната му страна..</Content>
+            <NumberOfLikes>34</NumberOfLikes>
+            <NumberOfHearts>0</NumberOfHearts>
+            <NumberOfHaha>6</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="199">
+            <Content>Имам един екзинстециален въпрос: защо летящ мъж наричат супермен, а летящата жената – вещица?</Content>
+            <NumberOfLikes>45</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>15</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>10</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Мръсни</CategoryName>
+        <Anecdote id="200">
+            <Content>- Имате ли триъгълник?</Content>
+            <NumberOfLikes>1686</NumberOfLikes>
+            <NumberOfHearts>236</NumberOfHearts>
+            <NumberOfHaha>803</NumberOfHaha>
+            <NumberOfWow>250</NumberOfWow>
+            <NumberOfSad>375</NumberOfSad>
+            <NumberOfFacebookShares>92</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="201">
+            <Content>- Лично аз предпочитам с жена...</Content>
+            <NumberOfLikes>863</NumberOfLikes>
+            <NumberOfHearts>130</NumberOfHearts>
+            <NumberOfHaha>504</NumberOfHaha>
+            <NumberOfWow>169</NumberOfWow>
+            <NumberOfSad>218</NumberOfSad>
+            <NumberOfFacebookShares>51</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="202">
+            <Content>Новата реклама на &amp;quot;Епъл&amp;quot;:
+                - И един х*й не сме променили в новия&amp;nbsp;айфон, но ще струва два пъти по-скъпо!</Content>
+            <NumberOfLikes>688</NumberOfLikes>
+            <NumberOfHearts>79</NumberOfHearts>
+            <NumberOfHaha>325</NumberOfHaha>
+            <NumberOfWow>117</NumberOfWow>
+            <NumberOfSad>284</NumberOfSad>
+            <NumberOfFacebookShares>36</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="203">
+            <Content>- Искам да ми изпеете песента &amp;quot;Колю ш*ба Радка?&amp;quot;
+                След кратко объркване и бърз спор, оркестърът&amp;nbsp;обявява:
+                - А сега ще изпълним песента &amp;quot;Кой уши байряка&amp;quot;...</Content>
+            <NumberOfLikes>754</NumberOfLikes>
+            <NumberOfHearts>75</NumberOfHearts>
+            <NumberOfHaha>447</NumberOfHaha>
+            <NumberOfWow>117</NumberOfWow>
+            <NumberOfSad>240</NumberOfSad>
+            <NumberOfFacebookShares>167</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="204">
+            <Content>Отличник, вече студент в първи курс, не бил правил любов, а бил красиво и здраво момче. Не щеш ли в него се влюбила негова колежка, с опит в интимната сфера. Той също я харесвал и предложил да отидат в събота и неделя, с преспиване, на излет в планината, като запазил стая в хижа. Притеснен бил младежът, нямал никакъв опит, и попитал свои колеги с опит как да постъпи ! &amp;quot;Като отидете в хижата, няма да бързаш да искаш секс, първо седнете в заведението и удари една-две водки за кураж, да се отпуснеш. А като се качите в стаята, ще започнеш да я целуваш, ще я целуваш по бузките, по устните, по гърдите, по коремчето и така надолу, като през това време ще и събличаш дрехите и нещата ще станат!&amp;quot; Така и направил младежът, ама нали никога не бил пил алкохол след втората водка изпаднал в безпаметност! Целувал и събличал, целувал и събличал . . . . . . ! Когато се събудил на сутринта, девойката била излязла, той сам в леглото приседнал, държи си главата с две ръце и се мъчи да си спомни какво се е случило. Изведнъж видял кръв по чаршафа: - &amp;quot;Ужас аз съм я убил!&amp;quot;, помислил си той, станал, отишъл в банята и поглеждайки в огледалото, изкрещял: &amp;quot;Ужас, ама аз съм я и изял!&amp;quot;.</Content>
+            <NumberOfLikes>1174</NumberOfLikes>
+            <NumberOfHearts>207</NumberOfHearts>
+            <NumberOfHaha>525</NumberOfHaha>
+            <NumberOfWow>235</NumberOfWow>
+            <NumberOfSad>384</NumberOfSad>
+            <NumberOfFacebookShares>111</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="205">
+            <Content>Две проститутки решават кръстословица: Голям съд за течности - чете едната. Презервоар - отговаря другата. - Не, започва с буквата Р. - Тогава е резерватив!</Content>
+            <NumberOfLikes>623</NumberOfLikes>
+            <NumberOfHearts>181</NumberOfHearts>
+            <NumberOfHaha>306</NumberOfHaha>
+            <NumberOfWow>159</NumberOfWow>
+            <NumberOfSad>364</NumberOfSad>
+            <NumberOfFacebookShares>67</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="206">
+            <Content>Влиза мъж в бара, след него вървят розово фламинго и една мокра котка. Поръчва уиски, изпива го и пита за цената. Бърка си в джоба, изсипва пред бармана шепа монети и си тръгва. Смаяният барман преброявя монетите - точно до стотинка. На другия ден пак влиза мъжът, след него фламингото и мократа котка, пие джин, пита за цената и отново изсипва купчина монети на бара. Обръща се и излиза, докато барманът брои парите, които пак са точно колкото трябва. На третия ден човекът се появява със странната си свита и барманът още от вратата пита: - Извинете, от петнайсет години съм барман, какво ли не съм виждал, но вие... - Виждате ли - отговаря клиентът - наскоро хванах златната рибка, знаете я, &amp;quot;три желания&amp;quot; вика и аз директно, без да се замислям, казах &amp;quot;Искам винаги да си имам с мен едно дългокрако пиленце, с винаги мокро котенце, и с парите всичко да ми е точно!&amp;quot;...</Content>
+            <NumberOfLikes>1662</NumberOfLikes>
+            <NumberOfHearts>486</NumberOfHearts>
+            <NumberOfHaha>525</NumberOfHaha>
+            <NumberOfWow>156</NumberOfWow>
+            <NumberOfSad>199</NumberOfSad>
+            <NumberOfFacebookShares>133</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="207">
+            <Content>- Знаеш ли, че Иванчо всъщност е п*дераст?
+                - Защо? Има да ти връща пари ли?
+                - Не, бе. В добрия смисъл го казвам.</Content>
+            <NumberOfLikes>723</NumberOfLikes>
+            <NumberOfHearts>159</NumberOfHearts>
+            <NumberOfHaha>235</NumberOfHaha>
+            <NumberOfWow>113</NumberOfWow>
+            <NumberOfSad>266</NumberOfSad>
+            <NumberOfFacebookShares>63</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="208">
+            <Content>- Ало, 112 ли е? Имам бързо нужда от помощ!
+                - Какъв е проблемът?
+                - Пих виагра и ерекцията ми продължава вече повече от 4 часа.
+                - И какво от това?
+                - Ами в инструкцията пише, че ако ерекцията продължава повече от 4 часа, трябва да се обадя на бърза помощ!
+                - Добре, сега ще ви изпратя лекар.
+                - Ей, не може ли медицинска сестра, че не съм го правил досега с мъж?</Content>
+            <NumberOfLikes>1146</NumberOfLikes>
+            <NumberOfHearts>306</NumberOfHearts>
+            <NumberOfHaha>332</NumberOfHaha>
+            <NumberOfWow>315</NumberOfWow>
+            <NumberOfSad>358</NumberOfSad>
+            <NumberOfFacebookShares>36</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="209">
+            <Content>Зима. Грипна епидемия. В местната аптека има гигантска опашка. Изведнъж нахълтва запъхтян мъж и се примолва на хората: - Моля ви, нека мина най-отпред, спешно е, човек на легло ме чака! Съгласили се останалите &amp;ndash; нямало как, спешно е. В този момент мъжът отишъл на гишето и казал: - Три презерватива и вазелин, моля.</Content>
+            <NumberOfLikes>730</NumberOfLikes>
+            <NumberOfHearts>245</NumberOfHearts>
+            <NumberOfHaha>245</NumberOfHaha>
+            <NumberOfWow>108</NumberOfWow>
+            <NumberOfSad>114</NumberOfSad>
+            <NumberOfFacebookShares>19</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Герои от приказките</CategoryName>
+        <Anecdote id="210">
+            <Content>Мъж тича по брега и крещи:
+                - Скумрия долна... Само да те уловя пак!
+                Рибарите изумени:
+                - Какво стана, бе човек? Плашиш ни рибата... Защо крещиш така?
+                - Що... Щото улових златната рибка... Пожелах си да имам ферари... Прибирам се и гледам ферарито паркирано пред нас, а вкъщи на масичката в хола документ... За лизинг... Скумрия долна!!!</Content>
+            <NumberOfLikes>36</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>20</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>14</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="211">
+            <Content>Враната седи на дървото и държи в клюна си парче сирене. Изведнъж идва лисицата, сваля я с един камък от дървото, пребива я, взима й сиренето и избягва. Враната става едва, държи се за главата и казва:- Леле как са я съкратили тая басня!</Content>
+            <NumberOfLikes>47</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>33</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>38</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="212">
+            <Content>- Иване, глупако, къде си тръгнал?
+                - В широкото поле... да пусна стрела, както ми заповяда баща ми, и в чийто двор падне, там да се оженя.
+                - А защо си вързал бойна глава на стрелата?
+                - Ми нещо не ми се жени...</Content>
+            <NumberOfLikes>45</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>9</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>2</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="213">
+            <Content>Добрият юнак отишъл да се бие с лошата ламя. Замахнал с меча и є отсякъл главата. На нейното място поникнали две нови глави. Отсякъл и тях - на тяхно място поникнали четири. Пак ги отсякъл - поникнали осем. И тях отрязал - пораснали шестнадесет.
+                - Да-а-а... - помислил си юнакът. - Тука без калкулатор няма да се оправя.</Content>
+            <NumberOfLikes>71</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>34</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>32</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="214">
+            <Content>Извънредното положение в приказките:
+                - Снежанка вече живее само с едно джудже, другите били контактни и ги затворили.
+                - Вълкът записал седемте козлета като домашни любимци, за да ги разхожда, но всъщност тайно се презапасил с храна...
+                - Червената шапчица вече не ходи до баба си, на бабата ѝ носят храна до дома ѝ.
+                - Спящата красавица никой не я докосва, даже от щаба я дали за пример за спазване на правилата.
+                - Грозното патенце ще става все по-грозно - козметиците и фризьорите не работят.
+                - Трите прасенца си остават вкъщи при майка им, ще строят къщи, като отмине вирусът.
+                - Хензел и Гретел се загубили в гората, защото не ги пуснали да вървят заедно. Все пак извадили късмет - вещицата е от рисковата група.
+                - Дядо вади ряпа само между 8.30 ч. и 10.30 ч.
+                - По същото време и баба Мравка тича за храна, а щурецът е безработен - сватбите и семейни празненства са забранени.
+                - Лъжливото овчарче го глобили 5000 лв. за разпространяване на невярна информация, а в дядовата ръкавичка вече се влиза само по един.
+                - Пепеляшка си загубила и втората обувка, докато бързала за брифинга.
+                - В крайна сметка Малкият принц си е най-добре, защото той живее на друга планета.</Content>
+            <NumberOfLikes>101</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>48</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>127</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="215">
+            <Content>- Ето и поуката от приказката, деца - не говорете с непознати! Вълкът щеше да си е жив и здрав, ако не се беше заговорил в гората с непознатата Червена шапчица.</Content>
+            <NumberOfLikes>31</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>13</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>2</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="216">
+            <Content>В едно далечно кралство,през девет гори в десета, живяла една красива, независима и интелигентна принцеса.
+                Един ден тя седяла на брега на едно живописно езеро в зелената долина близо до замъка си, мислейки за смисъла на живота и изведнъж видяла жаба.
+                Жабата скочила в скута ѝ и казала:
+                - Сладко, мило момиче, едно време бях красив принц, но злата вещица ме превърна в жаба. Ако ме целунеш, пак ще се превърна в принц, а след това, скъпа моя, ще ме заведеш в замъка ти и ще се оженя за теб, а ти ще ми готвиш храна, ще ми чистиш коня, ще ми переш дрехите, ще отгледаш децата ми и аз ще се радвам, че съм те взел за жена.
+                Същата вечер, след като изяла жабешките бутчета с подправки и в сос от скариди, поливайки ги с чаша бяло вино, принцесата тихичко си мърморела -
+                - Да, бе, да!</Content>
+            <NumberOfLikes>80</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>39</NumberOfHaha>
+            <NumberOfWow>20</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>13</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="217">
+            <Content>Вълкът се надвесил над бабата на Червената шапчица и казал:
+                - Ще те ям! Избирай с какво - с кетчуп или с горчица?
+                - По-добре с телевизора, че след малко ми почва сериалът....</Content>
+            <NumberOfLikes>26</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="218">
+            <Content>- Бабо, защо са ти толкова големи ушите?
+                - За да мога поне да те чувам, че си извън видимия спектър, Инфрачервена шапчице.</Content>
+            <NumberOfLikes>20</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>10</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>12</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="219">
+            <Content>- Коя си ти?
+                - Добрата фея.
+                - А защо носиш брадва?
+                - Абе, днес не съм нещо на кеф...</Content>
+            <NumberOfLikes>35</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>19</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Старост- нерадост</CategoryName>
+        <Anecdote id="220">
+            <Content>"Еее, май не съм чак толкова болен!" - помисли си дядо Гошо, като видя колко хапчета пие внукът му, преди да отиде на фитнес.</Content>
+            <NumberOfLikes>36</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>17</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="221">
+            <Content>- Вчера се опитах да обясня на баба, че работя като програмист. - Успя ли? - Миии... накрая се разбрахме, че поправям телевизори и развъждам мишки...</Content>
+            <NumberOfLikes>35</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>22</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="222">
+            <Content>Дядо и баба решили да си направят среща, като на младини. Разбрали се да се видят при чешмата в долния край на селото. Отишъл дядото, чакал , чакал, а бабата не идва. Върнал се у дома и що да види - бабата седи край огъня и се грее. - До кога ще те чакам на тоя студ!? - ядосал се той. - Мама не ме пусна! - отговорила бабата.</Content>
+            <NumberOfLikes>50</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>23</NumberOfSad>
+            <NumberOfFacebookShares>6</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="223">
+            <Content>Пред блока ни е точно като във "Фейсбук" - прибираш се, а пенсионерите пред входа веднага ти лепват статус, следват коментари, евентуално някой лайква...</Content>
+            <NumberOfLikes>20</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>8</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>4</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="224">
+            <Content>Журналист интервюира столетник от едно родопско село: - Ти дядо, пушиш ли, пиеш ли? - И пуша синко, и пия, и любов правя, че то иначе от тоя чист въздух умиране няма...</Content>
+            <NumberOfLikes>135</NumberOfLikes>
+            <NumberOfHearts>11</NumberOfHearts>
+            <NumberOfHaha>56</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>7</NumberOfSad>
+            <NumberOfFacebookShares>55</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="225">
+            <Content>Български пенсионер хванал златната рибка и на въпроса ѝ какво иска казал:
+                - Да си купя мерцедес от пенсията!
+                Така си осигурил безсмъртие...</Content>
+            <NumberOfLikes>90</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>32</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>26</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="226">
+            <Content>Говорят си двама пенсионери: - Кое би избрал: да имаш паркинсон или алцхаймер? - По-добре да разлееш малко ракия, отколкото да забравиш къде е бутилката!</Content>
+            <NumberOfLikes>57</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>15</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>63</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="227">
+            <Content>- Докторе, в презряла възраст съм, а все още тичам след жените.
+                - Но това е похвално!
+                - Да де, ама като не помня защо....?</Content>
+            <NumberOfLikes>65</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>23</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="228">
+            <Content>Пасейки овцете на два съседни баира, Нане и Вуте разговаряли, по-точно викали, за да се чуят:
+                - Нане-е-е! Чу ли, бре-е-е? Руснаците излетели у космоса!
+                - Всичките ли, Вуте?
+                - Не, бре, само един!
+                - Е, що викаш толкова силно тогава?</Content>
+            <NumberOfLikes>85</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>42</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>15</NumberOfSad>
+            <NumberOfFacebookShares>10</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="229">
+            <Content>- Бабо, да ти отворя ли фейсбук профил?
+                - Не отваряй нищо, че влизат мухи...</Content>
+            <NumberOfLikes>96</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>61</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>5</NumberOfSad>
+            <NumberOfFacebookShares>78</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Артисти и спортисти</CategoryName>
+        <Anecdote id="230">
+            <Content>Треньорът съветва боксьора си на почивката между рундовете:
+                - Ако и следващия рунд не успееш да удариш противника си, няма проблем - ще кандидатстваме за Нобелова награда за мир.</Content>
+            <NumberOfLikes>26</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>18</NumberOfHaha>
+            <NumberOfWow>7</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="231">
+            <Content>Режисьор се кара на сценаристите на сапунен сериал: “Абе, некадърници такива, каква е тая скука, дето сте я написали бе! Я вземете и убийте Идалго, или отровете Хелена, или пък някой да застреля Хосе.... Изобщо - вкарайте малко живот в тоя филм!”</Content>
+            <NumberOfLikes>22</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>14</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>2</NumberOfSad>
+            <NumberOfFacebookShares>1</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="232">
+            <Content>Илюзионист работел на кораб в Карибско море. Пътуващите всяка седмица били различни, затова фокусникът правел едни и същи номера всеки път. За нещастие обаче папагалът на капитана започнал да разбира как стават номерата и започнал да разваля шоуто. По време на представлението изкрещявал: “Това не е същата шапка,” “Крие цветята под масата”, “Защо всички карти са асо?”
+                Фокусникът бил бесен, но нямало какво да направи. Един ден корабът претърпял инцидент и потънал. Човекът се озовал на една греда насред океана заедно с папагала. Двамата се гледали с омраза, но не отронили и дума. Минал ден, минал втори, никой не казвал нищо. Най-накрая, след близо седмица, папагалът промълвил:
+                - Добре, предавам се. Къде е корабът?</Content>
+            <NumberOfLikes>20</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>13</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>3</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="233">
+            <Content>- Какво правиш? - Гледам състезание по щанги. - Мъже или жени? - Още не мога да разбера...</Content>
+            <NumberOfLikes>35</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>14</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>1</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="234">
+            <Content>Треньорът съветва боксьора си на почивката между рундовете:
+                - Ако и следващия рунд не успееш да удариш противника си, няма проблем - ще кандидатстваме за Нобелова награда за мир.</Content>
+            <NumberOfLikes>80</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>71</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>9</NumberOfSad>
+            <NumberOfFacebookShares>10</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="235">
+            <Content>На изложба...
+                - Как мислиш, на тази картина изгрев ли е изобразен или залез?!
+                - Залез, разбира се!
+                - И как разбра?
+                - Познавам художника, него до обяд никой не може да го събуди!</Content>
+            <NumberOfLikes>100</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>45</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>20</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="236">
+            <Content>- Какво правиш?
+                - Гледам състезание по щанги.
+                - Мъже или жени?
+                - Още не мога да разбера...”</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>33</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>19</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="237">
+            <Content>Дете гледа изпълнение на оперен певец и ĸaзвa:
+                – А ĸoгaтo в детската градина виĸaмe така, ни се ĸapaт…</Content>
+            <NumberOfLikes>70</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>32</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="238">
+            <Content>Художници седят на брега на морето и рисуват пейзажа. Минава японско семейство туристи. Бащата казва поучително: - Деца, виждате ли как се мъчат хората, които си нямат фотоапарат “Canon”?</Content>
+            <NumberOfLikes>50</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>36</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>11</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="239">
+            <Content>Интервю с Кубрат Пулев:
+                - Господин Пулев, как се подготвяте в домашни условия?
+                - Ами тегля кредит, не го връщам и чакам колекторите!</Content>
+            <NumberOfLikes>155</NumberOfLikes>
+            <NumberOfHearts>14</NumberOfHearts>
+            <NumberOfHaha>66</NumberOfHaha>
+            <NumberOfWow>14</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>95</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Политически</CategoryName>
+        <Anecdote id="240">
+            <Content>"Избори с повече от един кандидат са страшна бъркотия" – Ким Чен Ун.</Content>
+            <NumberOfLikes>76</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>23</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="241">
+            <Content>Съпрузи пътуват с кола. Жената шофира. По едно време настигат бавно движещ се камион и жената пита: - Какво да правя? Мъжът отговоря: - Не знаеш, а? А когато аз карам, винаги знаеш!</Content>
+            <NumberOfLikes>146</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>84</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>14</NumberOfSad>
+            <NumberOfFacebookShares>34</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="242">
+            <Content>Президентски кортеж пътува из страната. Държавният глава поглежда през прозореца на автомобила и възкликва:
+
+                - Вижте, завод! Работи, комините му димят, хората са усмихнати, значи, не е толкова зле положението.
+
+                -Този завод е на големия Ви син, - отговарят от протокола.
+
+                Президентът продължава да се възхищава:
+
+                &amp;nbsp;- Вижте, вижте този офис център &amp;ndash; всички прозорци светят, кипи здрава работа!
+
+                - Този център е на малкия Ви син, - уточняват пак от протокола.
+
+                Минута-две мълчание и президентът, отново ентусиазиран:
+
+                - Вижте тези огромни полета! Само нови трактори орат! А хората, селяните &amp;ndash; всички изглеждат добре и енергични!
+
+                - Земята е на жена Ви&amp;hellip;
+
+                - Хм, какво излиза &amp;ndash; в&amp;nbsp;тая страна само моето семейство работи!</Content>
+            <NumberOfLikes>123</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>63</NumberOfHaha>
+            <NumberOfWow>12</NumberOfWow>
+            <NumberOfSad>38</NumberOfSad>
+            <NumberOfFacebookShares>51</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="243">
+            <Content>Годината е 2192. Британският премиер посещава Брюксел, за да моли за удължаване на крайния срок за Брекзит. Никой вече не помни откъде води началото си тази традиция, но всяка година тя привлича много туристи от целия свят.</Content>
+            <NumberOfLikes>237</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>100</NumberOfHaha>
+            <NumberOfWow>8</NumberOfWow>
+            <NumberOfSad>17</NumberOfSad>
+            <NumberOfFacebookShares>188</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="244">
+            <Content>&amp;nbsp;2192 година, британският премиер-министър посещава Брюксел, за да моли за удължаване на крайния срок за Брекзит. Никой вече не помни откъде води началото си тази традиция, но всяка година тя привлича много туристи от целия свят.</Content>
+            <NumberOfLikes>174</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>82</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>90</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="245">
+            <Content>Предизборен митинг.
+
+                &amp;ndash; Гарантираме, че само след пет години всички ние ще живеем по-добре, отколкото в Европа!
+
+                Уплашен глас от последния ред:
+
+                &amp;ndash; Какво ли ще им се случи на горките хора там?</Content>
+            <NumberOfLikes>152</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>64</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>17</NumberOfSad>
+            <NumberOfFacebookShares>91</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="246">
+            <Content>Журналистка пита политик:
+                - Кажете, какво е положението общо взето?
+                - Ами, общо взето, каквото е било общо, вече е взето!</Content>
+            <NumberOfLikes>136</NumberOfLikes>
+            <NumberOfHearts>7</NumberOfHearts>
+            <NumberOfHaha>48</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>219</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="247">
+            <Content>- Сине, какъв искаш да станеш, като пораснеш?
+                - Пенсионер.
+                - Сине, това е толкова сложно в днешно време, не може ли космонавт?</Content>
+            <NumberOfLikes>107</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>33</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>17</NumberOfSad>
+            <NumberOfFacebookShares>46</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="248">
+            <Content>Журналисти питат кандидат за деуптат:
+                - Защо решихте да се кандидатирате?
+                - Не виждате ли какво става?! Управляващите са затънали в лукс, корупция и безделие!
+                - И Вие искате да промените всичко това?
+                - Защо? Искам да участвам във всичко това!</Content>
+            <NumberOfLikes>176</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>20</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>20</NumberOfSad>
+            <NumberOfFacebookShares>69</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="249">
+            <Content>Депутат срещнал селянин и го попитал:
+                - Ти колко си учил, байчо?
+                - Епа, завършил съм трето отделение.
+                - А аз съм завършил основно образование, техникум, имам и две висши образования - общо съм учил 25 години.
+                - Малее! Епа ти ептен нищо не си знаял, бе!</Content>
+            <NumberOfLikes>211</NumberOfLikes>
+            <NumberOfHearts>16</NumberOfHearts>
+            <NumberOfHaha>46</NumberOfHaha>
+            <NumberOfWow>13</NumberOfWow>
+            <NumberOfSad>17</NumberOfSad>
+            <NumberOfFacebookShares>65</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Сервитьори и продавачи</CategoryName>
+        <Anecdote id="250">
+            <Content>Жената изпраща мъжа си (програмист) до магазина: 
+                - Слез да ми купиш една кофичка кисело мляко. Ако има от малките яйца, вземи десет.
+                В магазина: 
+                - От малките яйца има ли? 
+                - Има.
+                - Дай ми десет кофички кисело мляко.</Content>
+            <NumberOfLikes>28</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>18</NumberOfHaha>
+            <NumberOfWow>10</NumberOfWow>
+            <NumberOfSad>25</NumberOfSad>
+            <NumberOfFacebookShares>7</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="251">
+            <Content>Бистро "Философска среща". Идва сервитьорката:
+                - Едно кафе без сметана.
+                - Сметаната свърши. Мога да ви донеса кафе без мляко.</Content>
+            <NumberOfLikes>28</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>7</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>11</NumberOfSad>
+            <NumberOfFacebookShares>0</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="252">
+            <Content>- Днес имам среща с една млада особа! - казва възрастен господин на продавачка в парфюмериен магазин.
+                - Нямате ли нещо с аромат, от който на момичето ще му се завърти главата?
+                - Да имам нещо специално! - отговаря продавачката. - Парфюм с мирис на портфейл!</Content>
+            <NumberOfLikes>73</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>42</NumberOfHaha>
+            <NumberOfWow>12</NumberOfWow>
+            <NumberOfSad>17</NumberOfSad>
+            <NumberOfFacebookShares>26</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="253">
+            <Content>- Извинете, какво месо продавате?
+                - Не продаваме месо.
+                - Но на витрината пише &amp;#39;месо&amp;#39;.
+                - Е, то и на моя гараж пише БМВ, ама вътре има само дърва.</Content>
+            <NumberOfLikes>43</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>17</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>35</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="254">
+            <Content>В денонощния магазин.
+                – Колко много водки! Коя ще ми препоръчате?
+                – Ето тази – „Машина на времето”!
+                – Хубава ли е?
+                – Прави чудеса! Пийнеш – и вече е утре!</Content>
+            <NumberOfLikes>93</NumberOfLikes>
+            <NumberOfHearts>8</NumberOfHearts>
+            <NumberOfHaha>44</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>22</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="255">
+            <Content>Влиза мъж в магазин за хранителни стоки и започва да разглежда.
+                - Да ви помогна с нещо, господине? - предлага продавачката.
+                - Какво е това? - пита мъжът, сочейки към портокалите.
+                - Ами, портокали.
+                - Дайте ми две кила от тях и ми увийте всеки поотделно в целофан. А онова какво е? - продължава мъжът, като се обръща към картофите.
+                - Картофи, не виждате ли?
+                - Три килограма и да ми увиете и от тях всеки поотделно в целофан. А онова там?
+                - Леща... - отвърнала продавачката и бързо добавила: - Ама тя не се продава!</Content>
+            <NumberOfLikes>41</NumberOfLikes>
+            <NumberOfHearts>5</NumberOfHearts>
+            <NumberOfHaha>27</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>10</NumberOfSad>
+            <NumberOfFacebookShares>16</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="256">
+            <Content>В денонощния магазин.
+                – Колко много водки! Коя ще ми препоръчате?
+                – Ето тази – „Машина на времето”!
+                – Хубава ли е?
+                – Прави чудеса! Пийнеш – и вече е утре!</Content>
+            <NumberOfLikes>120</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>40</NumberOfHaha>
+            <NumberOfWow>11</NumberOfWow>
+            <NumberOfSad>18</NumberOfSad>
+            <NumberOfFacebookShares>46</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="257">
+            <Content>Улична сергия.
+                - Госпожо, купете си тази маска, погледнете как подхожда на палтото Ви!
+                - Може ли да я премеря?
+                - Ама разбира се!
+                - Хм, с нея трудно се диша...
+                - Глупости говорите! Толкова народ я премери преди Вас и никой не се оплака!</Content>
+            <NumberOfLikes>83</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>33</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>19</NumberOfSad>
+            <NumberOfFacebookShares>34</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="258">
+            <Content>Мъж купил цигари от магазин и преди да е излязъл си запалил една цигара. Продавачът му се скарал: - Не можете да пушите тук! - Как така? Току що си купих тези цигари от вас! - И какво от това? Ние продаваме и тоалетна хартия...</Content>
+            <NumberOfLikes>174</NumberOfLikes>
+            <NumberOfHearts>9</NumberOfHearts>
+            <NumberOfHaha>82</NumberOfHaha>
+            <NumberOfWow>6</NumberOfWow>
+            <NumberOfSad>30</NumberOfSad>
+            <NumberOfFacebookShares>24</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="259">
+            <Content>Магазин за алкохол. Клиентите искат кой мускатова, кой троянска, кой карнобатска. Продавачът налива от един бидон и лепва съответния етикет. Един иска ямболска. Продавачът отсича:
+                - Няма.
+                Клиентът казва:
+                - Нали има още в бидона, не е свършила?
+                Продавачът:
+                - Ракия има, етикетите свършиха!</Content>
+            <NumberOfLikes>102</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>32</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>20</NumberOfSad>
+            <NumberOfFacebookShares>32</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+    <Category>
+        <CategoryName>Адвокати и лекари</CategoryName>
+        <Anecdote id="260">
+            <Content>- Докторе, нещо нее виждам добре надалече.
+                Лекарят завел пациента до прозореца и му посочил слънцето: 
+                - Това там виждаш ли го? 
+                - Да, това е слънцето.
+                - А знаеш ли, че то е на 150 милиона километра? Ти колко надалече искаш да виждаш?</Content>
+            <NumberOfLikes>57</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>37</NumberOfHaha>
+            <NumberOfWow>4</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>9</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="261">
+            <Content>Шоп тича при лекаря:
+                - Докторе, уапа ме змия.
+                - Къде те ухапа? 
+                - Е, па, зад трафопосту.
+                - Не бе, човек. За какво те ухапа? 
+                - Ми, те така, за нема нищо!</Content>
+            <NumberOfLikes>102</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>64</NumberOfHaha>
+            <NumberOfWow>9</NumberOfWow>
+            <NumberOfSad>13</NumberOfSad>
+            <NumberOfFacebookShares>57</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="262">
+            <Content>Диетолог към пациента: 
+                - Така, ето вашата диета: на ден 300 гр задушени тиквички, 400 гр листа от цикория и колкото искате зелена салата.
+                - Докторе, а звънче на шията трябва ли да си вържа или може и така да си паса?</Content>
+            <NumberOfLikes>42</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>15</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>14</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="263">
+            <Content>Лекар пита пациент:
+
+                - Как сте със съня?
+
+                - Лошо, докторе. Вечер си лягам рано, сутрин ставам късно, а следобед се въртя с часове и не мога да заспя!</Content>
+            <NumberOfLikes>45</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>16</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>4</NumberOfSad>
+            <NumberOfFacebookShares>5</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="264">
+            <Content>Водят малко момиченце при психиатър. Психиатърът я пита: 
+                - Как се казваш? 
+                - Ани.
+                - А на колко години си, Ани? 
+                - На 5.
+                - Кой сезон е сега? 
+                - Лято.
+                - Е как лято, вчера вози ли се на шейна? 
+                - Возих се.
+                - А прави ли снежен човек? 
+                - Правих.
+                - Е какво лято е тогава? 
+                - Скапано!</Content>
+            <NumberOfLikes>55</NumberOfLikes>
+            <NumberOfHearts>3</NumberOfHearts>
+            <NumberOfHaha>18</NumberOfHaha>
+            <NumberOfWow>2</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>15</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="265">
+            <Content>- Докторе, говоря си сам! 
+                - Нормално, вътрешен диалог...
+                - На френски си говоря, докторе. Не мога нищо да си разбера!</Content>
+            <NumberOfLikes>37</NumberOfLikes>
+            <NumberOfHearts>4</NumberOfHearts>
+            <NumberOfHaha>22</NumberOfHaha>
+            <NumberOfWow>3</NumberOfWow>
+            <NumberOfSad>6</NumberOfSad>
+            <NumberOfFacebookShares>17</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="266">
+            <Content>Докторът ми препоръча да пия повече ракия. Всъщност, ако трябва да го цитирам, каза:
+                - И по-малко вино!
+                Но смисълът е същият...</Content>
+            <NumberOfLikes>33</NumberOfLikes>
+            <NumberOfHearts>1</NumberOfHearts>
+            <NumberOfHaha>9</NumberOfHaha>
+            <NumberOfWow>1</NumberOfWow>
+            <NumberOfSad>8</NumberOfSad>
+            <NumberOfFacebookShares>19</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="267">
+            <Content>Лекар в психиатрията решава кръстословица. На въпроса: “Остров, на който се е родил Наполеон” лекарят се замисля за малко, а после се обръща към стоящ наблизо пациент: - Ти откъде, казваш, че си родом?</Content>
+            <NumberOfLikes>139</NumberOfLikes>
+            <NumberOfHearts>14</NumberOfHearts>
+            <NumberOfHaha>73</NumberOfHaha>
+            <NumberOfWow>13</NumberOfWow>
+            <NumberOfSad>23</NumberOfSad>
+            <NumberOfFacebookShares>48</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="268">
+            <Content>Докторе, след ваксинацията ще мога ли да свиря на акордеон?
+                - Да.
+                - Баси ваксината, а преди не можех..</Content>
+            <NumberOfLikes>37</NumberOfLikes>
+            <NumberOfHearts>2</NumberOfHearts>
+            <NumberOfHaha>29</NumberOfHaha>
+            <NumberOfWow>0</NumberOfWow>
+            <NumberOfSad>3</NumberOfSad>
+            <NumberOfFacebookShares>26</NumberOfFacebookShares>
+        </Anecdote>
+        <Anecdote id="269">
+            <Content>Отива мъж на средна възраст при кардиолог. След прегледа.
+                Лекарят:
+                - Препоръчвам Ви повече движение – най-малко 2 – 3 км дневно!
+                Болният:
+                - Добре, ама преди или след?
+                Лекар:
+                - Преди или след какво?
+                Болният:
+                - Преди или след като разнеса пощата, щото аз съм пощальон.</Content>
+            <NumberOfLikes>68</NumberOfLikes>
+            <NumberOfHearts>6</NumberOfHearts>
+            <NumberOfHaha>53</NumberOfHaha>
+            <NumberOfWow>5</NumberOfWow>
+            <NumberOfSad>11</NumberOfSad>
+            <NumberOfFacebookShares>22</NumberOfFacebookShares>
+        </Anecdote>
+    </Category>
+</Categories>
