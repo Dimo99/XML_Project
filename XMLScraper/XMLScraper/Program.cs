@@ -13,10 +13,11 @@ namespace XMLScraper
     {
         private const string vestiUrl = "https://www.vesti.bg/vicove";
         private static int counter = 0;
+        private static ScrapingBrowser browser = new ScrapingBrowser();
 
         static void Main()
         {
-            WebPage anecdodesPage = new ScrapingBrowser().NavigateToPage(new Uri(vestiUrl));
+            WebPage anecdodesPage = browser.NavigateToPage(new Uri(vestiUrl));
             HtmlNodeCollection categoriesLinks = anecdodesPage.Html.SelectNodes("//ul[@class='vicove-nav']/li/a");
             ConcurrentBag<Category> categories = new ConcurrentBag<Category>();
 
@@ -57,7 +58,7 @@ namespace XMLScraper
             while (left <= right)
             {
                 int mid = (left + right) / 2;
-                WebPage webPage = new ScrapingBrowser().NavigateToPage(new Uri($"{href}/{mid}"));
+                WebPage webPage = browser.NavigateToPage(new Uri($"{href}/{mid}"));
                 HtmlNode nextBtn = webPage.Html.SelectSingleNode("//a[text()='Следващи' and @class='btn btn-white']");
 
                 if (nextBtn == null)
@@ -86,7 +87,7 @@ namespace XMLScraper
 
             try
             {
-                currentCategoryPage = new ScrapingBrowser().NavigateToPage(new Uri(href));
+                currentCategoryPage = browser.NavigateToPage(new Uri(href));
             }
             catch (Exception)
             {
@@ -96,6 +97,12 @@ namespace XMLScraper
             }
 
             HtmlNodeCollection anecdoteDivs = currentCategoryPage.Html.SelectNodes("//ul[@class='anecdote-list category']/li/div");
+
+            if(anecdoteDivs == null)
+            {
+                // this happens, reason is still unknown
+                return;
+            }
 
             foreach (var anecdoteHtml in anecdoteDivs)
             {
@@ -121,7 +128,7 @@ namespace XMLScraper
                 WebPage anecdotePage;
                 try
                 {
-                    anecdotePage = new ScrapingBrowser().NavigateToPage(new Uri(url));
+                    anecdotePage = browser.NavigateToPage(new Uri(url));
                 }
                 catch (Exception)
                 {
@@ -166,7 +173,7 @@ namespace XMLScraper
             WebPage iframePage;
             try
             {
-                iframePage = new ScrapingBrowser().NavigateToPage(new Uri(src));
+                iframePage = browser.NavigateToPage(new Uri(src));
             }
             catch (Exception)
             {
